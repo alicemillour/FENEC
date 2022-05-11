@@ -1,0 +1,62 @@
+T1	pers.ind 90 95	Isaïe
+T2	func.ind 133 146	Roi d'Assyrie
+T3	loc.adm.sup 139 146	Assyrie
+T4	loc.adm.nat 158 164	Egypte
+T5	loc.adm.nat 169 177	Ethiopie
+T6	prod.art 435 443	Ecriture
+T7	pers.ind 480 484	Dieu
+T8	loc.adm.town 602 607	Paris
+T9	pers.ind 625 633	Epictete
+T10	pers.ind 649 661	Marc-Antonin
+T11	amount 700 713	cent endroits
+T12	pers.ind 760 770	St. Ignace
+T14	pers.coll 934 939	Juifs
+T15	pers.ind 947 962	Pierre-le-Grand
+T16	pers.ind 1099 1106	St. Luc
+T18	pers.coll 1222 1232	Madianites
+T19	pers.ind 1238 1243	Moïse
+T20	func.ind 1331 1339	Cardinal
+T21	pers.ind 1331 1348	Cardinal le Camus
+T22	prod.rule 1350 1379	Instruction pastorale de 1688
+T23	time.date.abs 1375 1379	1688
+T24	org.ent 1902 1913	Inquisition
+T25	pers.coll 1925 1934	Chrétiens
+T26	func.coll 1944 1953	Empereurs
+T27	func.ind 2204 2208	Iman
+T28	func.ind 2218 2226	Talapoin
+T29	loc.adm.town 2273 2280	Londres
+T30	pers.coll 2305 2316	Catholiques
+T31	event 2379 2403	conspiration des poudres
+T32	pers.coll 2420 2431	Catholiques
+T33	pers.ind 2477 2486	Aben-Ezra
+T34	prod.art 2526 2537	Pentateuque
+T35	time.date.abs 2558 2572	temps des Rois
+T36	func.coll 2568 2572	Rois
+T37	func.ind 2585 2606	Ambassadeur de France
+T38	loc.adm.nat 2600 2606	France
+T39	pers.ind 2644 2658	Grand Seigneur
+T40	org.ent 2824 2836	Cour de Rome
+T41	loc.adm.town 2832 2836	Rome
+T42	pers.ind 3077 3085	Bethzabé
+T43	pers.ind 3095 3099	Urie
+T44	pers.ind 3113 3118	David
+T45	pers.ind 3123 3130	Salomon
+T46	prod.art 3285 3302	Nouveau Testament
+T47	prod.art 3369 3380	Pentateuque
+T48	loc.phys.hydro 3694 3702	Jourdain
+T49	pers.coll 3745 3750	Juifs
+T50	pers.coll 3772 3791	Peuples de l'Orient
+T51	loc.adm.sup 3785 3791	Orient
+T52	pers.ind 3885 3889	Isis
+T53	pers.ind 3899 3905	Mitras
+T54	pers.ind 3918 3933	Déesse de Syrie
+T55	loc.adm.nat 3928 3933	Syrie
+T56	prod.doctr 3953 3965	culte Romain
+T57	pers.coll 4083 4092	Chrétiens
+T58	func.coll 4307 4316	Prophetes
+T59	func.coll 4340 4347	Voyants
+T60	pers.coll 4357 4366	Egyptiens
+T61	pers.coll 4378 4383	Juifs
+T62	pers.ind 4585 4595	St. Médard
+T64	func.coll 4644 4665	Prophetes Calvinistes
+T65	loc.adm.nat 5042 5051	Dannemark

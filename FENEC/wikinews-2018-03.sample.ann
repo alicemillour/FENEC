@@ -1,0 +1,106 @@
+T1	org.ent 0 5	Valve
+T2	time.date.rel 34 56	après plusieurs années
+T3	amount 40 56	plusieurs années
+T4	time.date.abs 71 82	9 mars 2018
+T5	org.ent 88 91	M5S
+T6	time.date.abs 394 412	le 2 novembre 2017
+T7	loc.adm.nat 434 442	Belgique
+T8	time.date.abs 461 474	le 5 décembre
+T9	org.ent 483 500	justice espagnole
+T10	func.coll 519 531	juges belges
+T11	time.date.abs 603 610	En 1952
+T12	func.coll 681 684	CRS
+T13	time.date.rel 732 751	La semaine dernière
+T14	org.adm 756 767	Royaume-Uni
+T15	amount 783 803	23 diplomates russes
+T16	func.coll 786 803	diplomates russes
+T17	amount 807 820	Quelques mois
+T18	org.ent 844 852	Facebook
+T19	org.ent 855 861	Google
+T20	prod.soft 912 919	AdWords
+T21	pers.coll 957 1004	Les forces de défense et de sécurité burkinabés
+T22	amount 1031 1044	8 assaillants
+T23	amount 1061 1062	2
+T24	org.ent 1064 1069	Valve
+T25	amount 1101 1134	Plus de cinquante wikimédien.ne.s
+T26	loc.adm.nat 1174 1181	Algérie
+T27	loc.adm.nat 1184 1190	Égypte
+T28	loc.adm.nat 1193 1201	Cameroun
+T29	loc.adm.nat 1204 1211	Nigéria
+T30	loc.phys.geo 1222 1243	Glacier Perito Moreno
+T31	pers.ind 1237 1243	Moreno
+T32	org.ent 1254 1284	Patrimoine mondial de l'UNESCO
+T33	amount 1355 1361	26 ans
+T34	org.ent 1396 1401	Daesh
+T35	prod.object 1432 1442	Tiangong-1
+T36	prod.object 1591 1600	Curiosity
+T37	org.ent 1699 1703	NASA
+T38	prod.object 1729 1757	télescope spatial James Webb
+T39	pers.ind 1747 1757	James Webb
+T40	time.date.rel 1760 1785	Sept ans après le tsunami
+T41	event 1792 1823	Accident nucléaire de Fukushima
+T42	loc.adm.town 1814 1823	Fukushima
+T43	loc.adm.nat 1829 1834	Japon
+T44	prod.object 2083 2089	Hubble
+T45	loc.phys.astro 2162 2169	Saturne
+T46	time.date.abs 2171 2183	10 mars 2018
+T47	prod.object 2186 2190	SoHO
+T48	time.date.rel 2431 2446	Dans la matinée
+T49	loc.adm.town 2450 2461	Carcassonne
+T50	org.ent 2616 2630	groupe Bolloré
+T51	pers.ind 2623 2630	Bolloré
+T52	org.ent 2632 2638	Canal+
+T53	loc.adm.nat 2740 2750	États-Unis
+T54	loc.adm.reg 2770 2780	Californie
+T55	time.date.abs 2810 2822	10 mars 2018
+T56	event 2825 2843	Jeux Paralympiques
+T57	pers.ind 2849 2855	Suisse
+T58	time.date.abs 2871 2883	10 mars 2018
+T59	prod.object 2898 2934	station spatiale chinoise Tiangong-1
+T60	loc.phys.astro 2949 2954	Terre
+T61	time.date.abs 2955 2966	début avril
+T62	time.date.abs 2986 2997	4 mars 2018
+T63	prod.object 3014 3050	station spatiale chinoise Tiangong-1
+T64	loc.phys.hydro 3070 3079	Pacifique
+T65	time.date.abs 3083 3095	14 mars 2018
+T66	event 3353 3401	Championnats du monde junior de short-track 2018
+T67	time.date.abs 3397 3401	2018
+T68	time.date.abs 3417 3436	3 mars  3 mars 2018
+T69	loc.adm.sup 3503 3514	Royaume-Uni
+T70	prod.award 3526 3548	prix Nobel de médecine
+T71	pers.ind 3549 3561	John Sulston
+T72	time.date.abs 3563 3575	10 mars 2018
+T73	loc.adm.nat 3607 3613	Suisse
+T74	time.date.abs 3614 3629	le 20 mars 2018
+T75	func.coll 3862 3875	scientifiques
+T76	time.date.abs 3880 3903	Le vendredi 2 mars 2018
+T77	loc.adm.town 3988 3999	Ouagadougou
+T78	loc.adm.nat 4017 4029	Burkina-Faso
+T79	prod.media 4297 4310	Sesame Street
+T80	pers.ind 4347 4358	Turk Murphy
+T81	pers.ind 4377 4390	Donald Hadley
+T82	time.date.abs 4393 4400	En 1998
+T83	org.ent 4415 4449	LVMH - Moët Hennessy Louis Vuitton
+T84	pers.ind 4422 4449	Moët Hennessy Louis Vuitton
+T85	func.ind 4469 4489	directeur artistique
+T86	amount 4504 4510	22 ans
+T87	func.coll 4635 4648	scientifiques
+T88	loc.adm.nat 4650 4656	France
+T89	org.ent 4662 4676	Front National
+T90	time.date.rel 4703 4714	aujourd'hui
+T91	time.date.abs 4716 4728	11 mars 2018
+T92	loc.phys.astro 4760 4765	Terre
+T93	loc.phys.astro 4785 4789	Mars
+T94	prod.object 4957 4985	télescope spatial James Webb
+T95	pers.ind 4975 4985	James Webb
+T96	amount 5137 5141	70 %
+T97	amount 5167 5185	Certains patineurs
+T98	func.coll 5176 5185	patineurs
+T99	time.date.rel 5209 5226	le mois précédent
+T100	event 5231 5246	Jeux olympiques
+T101	loc.adm.nat 5248 5255	Espagne
+T102	time.date.abs 5298 5309	8 mars 2018
+T103	org.ent 5355 5358	AFP
+T104	amount 5396 5415	28 personnes mortes
+T105	amount 5428 5439	80 blessées
+T106	func.ind 5476 5497	état-major des armées

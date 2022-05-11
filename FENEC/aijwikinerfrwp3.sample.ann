@@ -1,0 +1,140 @@
+T1	amount 0 10	Deux temps
+T2	amount 37 62	cinquante premiers livres
+T3	amount 79 99	723 premières années
+T4	time.date.rel 79 107	723 premières années de Rome
+T5	loc.adm.town 103 107	Rome
+T6	event 130 148	bataille d'Actium
+T7	loc.phys.geo 142 148	Actium
+T8	time.date.abs 149 155	en -31
+T9	amount 163 178	trente derniers
+T10	amount 183 193	250 années
+T11	loc.adm.nat 209 213	Inde
+T12	amount 216 230	trois périodes
+T13	pers.ind 283 290	Ballard
+T14	pers.coll 337 349	Joy Division
+T15	pers.coll 351 361	The Normal
+T16	pers.ind 365 374	John Foxx
+T17	pers.ind 376 386	Jiang Qing
+T18	pers.ind 400 410	Mao Zedong
+T19	pers.coll 418 434	bande des Quatre
+T20	pers.ind 582 591	Arrhenius
+T21	pers.ind 672 687	Michael Faraday
+T22	time.date.rel 709 730	quelques années avant
+T23	prod.art 759 765	Fringe
+T24	loc.adm.town 789 795	Boston
+T25	prod.art 842 857	Lance et compte
+T26	time.date.abs 860 864	1986
+T27	time.date.abs 928 932	1997
+T28	func.ind 957 962	reine
+T29	pers.ind 963 975	Elizabeth II
+T30	loc.adm.nat 979 989	Angleterre
+T31	func.ind 1003 1013	producteur
+T32	pers.ind 1014 1022	Bob Rock
+T33	pers.coll 1081 1090	Metallica
+T34	pers.ind 1177 1185	Louis XV
+T35	time.date.abs 1210 1229	le 6 septembre 1764
+T36	pers.ind 1398 1420	Pierre-Antoine Demachy
+T37	loc.other 1460 1476	les maquiladoras
+T38	loc.adm.nat 1539 1549	États-Unis
+T39	loc.adm.nat 1555 1565	États-Unis
+T40	prod.rule 1617 1621	DMCA
+T41	func.coll 1627 1640	scientifiques
+T42	time.date.abs 1641 1657	du XVII e siècle
+T43	pers.ind 1667 1674	Galilée
+T44	pers.ind 1676 1681	Locke
+T45	org.ent 1939 1942	OMG
+T46	org.ent 1945 1968	Object Management Group
+T47	time.date.abs 1986 1990	1989
+T48	time.date.abs 2081 2088	En 2006
+T49	prod.media 2126 2140	New York Times
+T50	prod.art 2150 2157	Beloved
+T51	time.date.rel 2207 2235	en novembre de la même année
+T52	loc.fac 2240 2255	Musée du Louvre
+T53	org.ent 2240 2255	Musée du Louvre
+T54	pers.ind 2264 2272	Morrison
+T55	func.ind 2366 2372	auteur
+T56	func.coll 2385 2393	artistes
+T57	func.coll 2395 2404	écrivains
+T58	func.coll 2408 2419	professeurs
+T59	pers.ind 2493 2508	Olav Tryggvason
+T60	time.date.rel 2509 2521	à cette date
+T61	loc.adm.town 2566 2570	Oslo
+T62	time.date.abs 2574 2578	2000
+T63	loc.adm.town 2580 2587	Lorient
+T64	loc.adm.reg 2605 2613	Bretagne
+T65	loc.adm.reg 2664 2672	Morbihan
+T66	loc.phys.hydro 2684 2714	delta de la rivière des Perles
+T67	loc.adm.reg 2735 2744	Guangdong
+T68	loc.adm.town 2780 2789	Hong Kong
+T69	loc.adm.town 2791 2797	Canton
+T70	loc.adm.town 2801 2809	Shenzhen
+T71	loc.phys.geo 2834 2838	Bali
+T72	org.ent 3008 3019	USC Trojans
+T73	org.ent 3027 3038	UCLA Bruins
+T74	pers.ind 3118 3127	Armstrong
+T75	pers.ind 3164 3172	Bob Hope
+T76	org.ent 3179 3207	United Service Organizations
+T77	prod.art 3222 3229	Ma mère
+T78	loc.adm.town 3429 3438	Granville
+T79	amount 3452 3471	dix-sept kilomètres
+T80	loc.phys.geo 3515 3522	Chausey
+T81	amount 3524 3562	deux cent quatre-vingt huit kilomètres
+T82	loc.adm.town 3577 3582	Paris
+T83	loc.fac 3586 3596	Notre-Dame
+T84	loc.other 3598 3629	point zéro des routes de France
+T85	loc.adm.nat 3623 3629	France
+T86	amount 3631 3655	quarante-neuf kilomètres
+T87	loc.adm.town 3675 3683	Saint-Lô
+T88	amount 3685 3708	vingt-quatre kilomètres
+T89	loc.adm.town 3729 3738	Avranches
+T90	amount 3740 3761	vingt-sept kilomètres
+T91	loc.adm.town 3781 3790	Coutances
+T92	amount 3792 3820	quatre-vingt onze kilomètres
+T93	loc.adm.town 3831 3850	Cherbourg-Octeville
+T94	amount 3852 3874	vingt-trois kilomètres
+T95	loc.adm.town 3886 3903	Mont-Saint-Michel
+T96	amount 3905 3925	vingt-six kilomètres
+T97	loc.adm.town 3944 3951	Cancale
+T98	amount 3953 3985	quatre-vingt dix-neuf kilomètres
+T99	loc.adm.town 4005 4009	Caen
+T100	time.date.abs 4110 4124	au 17 e siècle
+T101	loc.fac 4152 4175	port fortifié de Morges
+T102	loc.adm.town 4169 4175	Morges
+T103	pers.ind 4177 4188	Jack London
+T104	amount 4259 4272	deux ouvriers
+T105	amount 4324 4337	deux ouvriers
+T106	prod.object 4374 4377	TGV
+T107	loc.fac 4402 4411	Massy TGV
+T108	loc.fac 4413 4431	Massy -- Palaiseau
+T109	loc.fac 4435 4441	Juvisy
+T110	loc.phys.geo 4446 4472	plaine du Nord de la Chine
+T111	loc.adm.reg 4456 4472	Nord de la Chine
+T112	loc.adm.nat 4467 4472	Chine
+T113	loc.adm.town 4483 4488	Pékin
+T114	loc.phys.hydro 4594 4619	delta du Nord de la Chine
+T115	loc.adm.reg 4603 4619	Nord de la Chine
+T116	loc.adm.nat 4614 4619	Chine
+T117	org.adm 4624 4641	Royaume d'Égypte
+T118	loc.adm.nat 4635 4641	Égypte
+T119	time.date.abs 4670 4674	1922
+T120	time.date.abs 4676 4683	En 1209
+T121	loc.adm.town 4727 4733	Oxford
+T122	loc.adm.town 4753 4762	Cambridge
+T123	pers.ind 4842 4849	Maxwell
+T124	time.date.abs 4899 4906	en 1996
+T125	prod.rule 4910 4921	Pacte andin
+T126	prod.rule 4939 4959	accord de Carthagène
+T127	loc.adm.town 4949 4959	Carthagène
+T128	time.date.abs 4960 4967	de 1969
+T129	org.ent 4972 4985	Thionville FC
+T130	time.date.abs 5047 5056	1979-1980
+T131	time.date.abs 5060 5069	1980-1981
+T132	loc.adm.town 5080 5087	Passaic
+T133	pers.ind 5125 5138	Michel Gondry
+T134	prod.art 5140 5164	Soyez sympas, rembobinez
+T135	loc.adm.nat 5169 5178	Groenland
+T136	prod.rule 5196 5230	accords sur le charbon et l'acier
+T137	prod.rule 5246 5277	accords sur l'énergie atomique
+T138	pers.ind 5290 5300	Otton I er
+T139	func.ind 5302 5328	protecteur de la Bourgogne
+T140	loc.adm.reg 5319 5328	Bourgogne

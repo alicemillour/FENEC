@@ -1,0 +1,42 @@
+T1	pers.ind 90 99	Alexandre
+T2	func.ind 116 121	poëte
+T3	amount 206 217	deux femmes
+T4	pers.ind 283 287	Lisa
+T5	func.coll 354 363	gendarmes
+T6	amount 485 511	deux tranches de galantine
+T7	pers.ind 724 742	mademoiselle Saget
+T8	time.date.abs 813 823	2 décembre
+T9	pers.ind 900 907	Florent
+T10	func.ind 941 949	portière
+T11	amount 951 967	cinquante francs
+T12	pers.ind 1285 1289	Lisa
+T13	pers.ind 1505 1520	Monsieur Gavard
+T14	time.hour.rel 1582 1589	Le soir
+T15	time.hour.rel 1662 1674	l'après-midi
+T16	loc.oro 1689 1704	rue Montorgueil
+T17	func.ind 1714 1729	marchand de vin
+T18	org.adm 1932 1935	IRS
+T19	func.ind 1966 1977	tablettière
+T20	pers.ind 2000 2015	vieille Méhudin
+T21	pers.ind 2097 2112	vieille Méhudin
+T22	func.coll 2470 2476	commis
+T23	amount 2775 2784	dix mille
+T24	pers.ind 2855 2859	Lisa
+T25	pers.ind 2861 2868	Florent
+T26	pers.ind 3287 3294	Charvet
+T27	pers.ind 3362 3370	Clémence
+T28	pers.ind 3427 3441	madame Lecoeur
+T29	pers.ind 3524 3529	Quenu
+T30	pers.ind 3783 3790	Florent
+T31	amount 3837 3852	quelques francs
+T32	time.hour.rel 3908 3915	le soir
+T33	pers.ind 3922 3938	monsieur Lebigre
+T34	amount 3993 4002	cent sous
+T35	amount 4020 4029	cent sous
+T36	time.date.rel 4098 4110	Le lendemain
+T37	time.hour.abs 4112 4130	vers quatre heures
+T38	pers.ind 4132 4136	Lisa
+T39	loc.fac 4149 4163	Saint-Eustache
+T40	time.hour.rel 4165 4197	À cette heure avancée de la nuit
+T41	pers.ind 4386 4393	Pauline
+T42	pers.ind 4724 4731	Florent

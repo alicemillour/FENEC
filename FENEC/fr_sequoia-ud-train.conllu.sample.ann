@@ -1,0 +1,86 @@
+T1	prod.media 38 51	Verdun la vie
+T2	pers.coll 75 84	Verdunois
+T3	pers.ind 136 157	M. Christian Langlois
+T4	pers.ind 161 178	M. Patrice Lanini
+T5	org.ent 199 202	CGT
+T6	org.ent 207 226	Rapides de la Meuse
+T7	loc.adm.reg 221 226	Meuse
+T8	func.ind 269 273	juge
+T9	pers.ind 274 291	Armand Riberolles
+T10	func.ind 333 342	promoteur
+T11	pers.ind 343 359	Jean-Claude Méry
+T12	pers.ind 454 470	Francis Poullain
+T13	loc.adm.nat 512 518	France
+T14	loc.adm.sup 524 531	Afrique
+T15	pers.ind 560 579	François Mitterrand
+T16	func.ind 592 613	ministre des Colonies
+T17	org.adm 605 613	Colonies
+T18	time.date.abs 615 631	à partir de 1950
+T19	pers.ind 636 649	René Bousquet
+T20	func.ind 650 684	directeur de la Banque d'Indochine
+T21	org.ent 666 684	Banque d'Indochine
+T22	time.date.abs 688 702	Le 17 mai 2004
+T23	func.ind 713 742	ministre socialiste du Budget
+T24	pers.ind 743 758	Michel Charasse
+T25	loc.adm.nat 828 834	Taïwan
+T26	amount 836 848	5 x 1 flacon
+T27	amount 876 885	2 flacons
+T28	loc.adm.nat 945 950	Chine
+T29	pers.ind 1008 1022	Blanche Maupas
+T30	time.date.abs 1032 1039	en 1962
+T31	time.date.abs 1074 1081	en 1933
+T32	prod.art 1083 1093	Le Fusillé
+T33	time.date.abs 1113 1120	en 1994
+T34	pers.ind 1151 1156	Tardi
+T35	prod.object 1275 1281	Angiox
+T36	prod.object 1461 1467	Angiox
+T37	pers.ind 1485 1500	Nicolas Sarkozy
+T38	time.date.abs 1531 1549	dès septembre 2004
+T39	time.date.abs 1603 1621	jusqu'à début 2006
+T40	time.date.abs 1737 1752	20 janvier 1994
+T41	org.adm 1758 1787	Direction générale des impôts
+T42	org.adm 1789 1792	DGI
+T43	org.adm 1806 1824	parquet de Créteil
+T44	loc.adm.town 1817 1824	Créteil
+T45	pers.ind 1870 1886	Francis Poullain
+T46	org.adm 2024 2028	OPAC
+T47	org.adm 2030 2097	Office public d'aménagement et de construction de la ville de Paris
+T48	loc.adm.town 2092 2097	Paris
+T49	prod.object 2193 2200	Aclasta
+T50	amount 2201 2211	2 semaines
+T51	time.date.rel 2253 2264	Aujourd'hui
+T52	amount 2265 2277	39 adhérents
+T53	time.date.rel 2493 2513	cette nouvelle année
+T54	prod.media 2574 2582	Stop USA
+T55	loc.adm.nat 2579 2582	USA
+T56	loc.adm.nat 2597 2603	Taïwan
+T57	pers.ind 2606 2614	Charasse
+T58	prod.media 2626 2628	AP
+T59	time.date.abs 2630 2641	28 mai 2004
+T60	org.adm 2724 2734	Commission
+T61	org.adm 2761 2768	Conseil
+T62	org.adm 2784 2793	Parlement
+T63	func.ind 2798 2807	procureur
+T64	pers.ind 3168 3173	Paget
+T65	prod.object 3175 3182	Aclasta
+T66	prod.object 3210 3221	risédronate
+T67	prod.object 3258 3264	Angiox
+T68	org.ent 3307 3317	groupe EDD
+T69	org.adm 3348 3350	UE
+T70	pers.ind 3577 3588	Andrew Wang
+T71	loc.adm.sup 3676 3682	Europe
+T72	func.coll 3867 3881	juges français
+T73	time.date.abs 3894 3911	le 2 octobre 2006
+T74	pers.ind 3950 3966	Théophile Maupas
+T75	org.ent 3984 4011	Ligue des droits de l'Homme
+T76	time.date.abs 4022 4046	dès le mois d'avril 1915
+T77	func.coll 4115 4123	caporaux
+T78	loc.adm.town 4136 4142	Souain
+T79	prod.object 4205 4212	Aclasta
+T80	loc.adm.town 4467 4475	Lubljana
+T81	pers.ind 4488 4503	Stanley Kubrick
+T82	prod.art 4505 4530	Les Sentiers de la gloire
+T83	pers.coll 4567 4590	fusillés pour l'exemple
+T84	event 4597 4621	Première Guerre mondiale
+T85	prod.object 4743 4750	Aclasta
+T86	amount 4807 4813	18 ans

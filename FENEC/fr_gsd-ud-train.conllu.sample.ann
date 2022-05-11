@@ -1,0 +1,80 @@
+T1	loc.adm.town 69 77	La Capte
+T2	loc.adm.town 79 84	Giens
+T3	loc.adm.town 88 97	Almanarre
+T4	loc.adm.town 101 108	Ayguade
+T5	loc.adm.town 110 119	Le Pyanet
+T6	loc.adm.town 121 131	Costebelle
+T7	loc.adm.town 133 152	Les Salins-d'Hyères
+T8	loc.adm.town 156 167	Les Borrels
+T9	loc.phys.hydro 179 186	El Niño
+T10	pers.ind 282 292	Shusterman
+T11	prod.art 357 378	Practicing Philosophy
+T12	time.date.abs 380 384	1997
+T13	prod.art 387 402	Performing Live
+T14	time.date.abs 404 408	2000
+T15	prod.art 413 430	Surface and Depth
+T16	time.date.abs 432 436	2002
+T17	time.date.abs 670 682	XXème siècle
+T18	loc.adm.nat 686 692	France
+T19	loc.adm.town 743 752	Hollywood
+T20	time.date.abs 757 771	de 1930 à 1942
+T21	amount 790 799	175 films
+T22	org.ent 825 844	Metro-Goldwyn-Mayer
+T23	pers.ind 914 920	Adrian
+T24	org.ent 925 946	Centrale féline Belge
+T25	org.ent 948 951	CFB
+T26	pers.ind 1098 1115	Hugues Mingarelli
+T27	org.adm 1134 1136	UE
+T28	func.ind 1257 1263	patron
+T29	time.date.abs 1360 1364	2011
+T30	amount 1399 1402	10%
+T31	amount 1618 1633	deux techniques
+T32	amount 1993 2052	13 responsables de la représentation diplomatique espagnole
+T33	func.coll 2015 2052	représentation diplomatique espagnole
+T34	loc.adm.nat 2067 2072	Maroc
+T35	time.date.rel 2073 2091	ces derniers jours
+T36	func.coll 2097 2110	météorologues
+T37	loc.adm.sup 2186 2193	Afrique
+T38	loc.phys.geo 2201 2209	Antilles
+T39	amount 2227 2230	80%
+T40	time.date.rel 2273 2302	dans les prochaines 48 heures
+T41	amount 2293 2302	48 heures
+T42	func.ind 2525 2548	ancien Premier ministre
+T43	pers.ind 2549 2566	Margaret Thatcher
+T44	time.date.rel 2637 2642	jeudi
+T45	loc.add.phys 2646 2663	10 Downing Street
+T46	func.ind 2717 2733	Premier ministre
+T47	event 2772 2779	concile
+T48	loc.adm.town 2787 2794	Saintes
+T49	func.ind 2819 2836	évêque de Saintes
+T50	loc.adm.town 2829 2836	Saintes
+T51	pers.ind 2837 2842	Boson
+T52	loc.adm.town 2865 2873	Bordeaux
+T53	pers.ind 2851 2882	archevêque de Bordeaux Joscelin
+T54	func.ind 2899 2914	duc d'Aquitaine
+T55	loc.adm.reg 2905 2914	Aquitaine
+T56	pers.ind 3131 3135	Dieu
+T57	pers.coll 3354 3362	croyants
+T58	loc.adm.town 3366 3394	arrondissement de Leeuwarden
+T59	loc.adm.reg 3452 3475	département de la Frise
+T60	time.date.abs 3482 3501	le 1er janvier 1811
+T61	time.date.abs 3515 3531	le 11 avril 1814
+T62	amount 3640 3649	500 euros
+T63	event 3791 3830	journée mondiale des droits de l'enfant
+T64	time.date.abs 3832 3843	20 novembre
+T65	org.adm 3870 3883	Nations unies
+T66	org.ent 3860 3898	Fonds des Nations unies pour l'enfance
+T67	amount 3978 3995	4 enfants sur 100
+T68	amount 4023 4028	5 ans
+T69	amount 4127 4136	110 décès
+T70	amount 4169 4187	100.000 naissances
+T71	pers.ind 4253 4268	Narcisse Pigeon
+T72	prod.award 4282 4306	brevet de pilote d'avion
+T73	amount 4435 4447	dix millions
+T74	loc.fac 4464 4495	Collégiale Royale Sainte-Marthe
+T75	loc.adm.town 4527 4535	Tarascon
+T76	loc.adm.reg 4569 4585	Bouches-du-Rhône
+T77	loc.phys.geo 4692 4703	monts Oural
+T78	loc.adm.town 4831 4836	Paris
+T79	time.date.rel 4966 4995	Avant la Révolution française
+T80	event 4975 4995	Révolution française

@@ -1,0 +1,48 @@
+T1	loc.adm.town 104 127	Saint-Jean-de-Maurienne
+T2	prod.media 169 178	Le Figaro
+T3	time.date.abs 256 281	le vingt-et-unième siècle
+T4	time.hour.abs 369 388	vingt heures quinze
+T5	time.hour.abs 468 511	vers vingt heures ou dix-neuf heures trente
+T6	loc.oro 571 589	place Paul Vallier
+T7	pers.ind 577 589	Paul Vallier
+T8	loc.oro 606 622	place Notre-Dame
+T9	loc.oro 644 661	rue de Strasbourg
+T10	loc.adm.town 651 661	Strasbourg
+T11	loc.oro 769 789	le boulevard Diderot
+T12	pers.ind 782 789	Diderot
+T13	amount 851 870	vingt-neuf docteurs
+T14	func.coll 862 870	docteurs
+T15	pers.ind 893 904	Gabi Heinze
+T16	func.ind 1200 1209	boulanger
+T17	func.ind 1304 1323	médecin de campagne
+T18	loc.adm.town 1353 1360	Olkaloo
+T19	loc.phys.geo 1380 1388	équateur
+T20	time.hour.abs 1838 1857	vingt heures quinze
+T21	time.hour.abs 1937 1980	vers vingt heures ou dix-neuf heures trente
+T22	amount 2147 2161	quatre minutes
+T23	amount 2381 2396	cent kilomètres
+T24	prod.art 2852 2885	Chroniques de l' oiseau à ressort
+T25	prod.art 2886 2913	La course du mouton sauvage
+T26	prod.art 2918 2937	Kafka sur le rivage
+T27	pers.ind 2918 2923	Kafka
+T28	prod.art 3034 3056	Au sud de la frontière
+T29	loc.adm.sup 3458 3477	corne de l' Afrique
+T30	loc.adm.nat 3484 3492	Ethiopie
+T31	loc.adm.nat 3496 3503	Somalie
+T32	loc.adm.sup 3519 3525	Arabie
+T33	amount 4013 4026	trois minutes
+T34	loc.other 4047 4065	Cavalaire Pardigon
+T35	loc.adm.town 4047 4056	Cavalaire
+T36	pers.coll 4132 4137	Besse
+T37	loc.adm.town 4197 4201	Aden
+T38	amount 4299 4322	depuis oui cinq minutes
+T39	pers.coll 4337 4356	l' équipe de France
+T40	loc.adm.nat 4350 4356	France
+T41	pers.ind 4564 4570	Agüero
+T42	org.ent 4749 4760	lycée Arago
+T43	pers.ind 4755 4760	Arago
+T44	loc.fac 4851 4868	Reuilly - Diderot
+T45	loc.adm.town 4851 4858	Reuilly
+T46	pers.ind 4861 4868	Diderot
+T47	func.ind 4949 4958	boulanger
+T48	time.date.abs 5114 5128	tous les jours

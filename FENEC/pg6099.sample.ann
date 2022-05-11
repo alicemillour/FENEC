@@ -1,0 +1,39 @@
+T1	loc.phys.geo 0 6	Lesbos
+T2	pers.coll 14 21	Phrynés
+T3	loc.adm.town 100 106	Paphos
+T4	pers.ind 134 139	Vénus
+T5	pers.ind 166 171	Sapho
+T6	loc.phys.geo 175 181	Lesbos
+T7	pers.coll 189 196	Phrynés
+T8	func.ind 373 380	boucher
+T9	pers.ind 388 393	Moïse
+T10	func.ind 660 673	enchanteresse
+T11	func.ind 756 767	chasseresse
+T12	amount 858 873	vingt-neuf sous
+T13	pers.ind 934 939	Vénus
+T14	pers.ind 1056 1061	Océan
+T15	pers.ind 1099 1104	Vénus
+T16	pers.ind 1390 1397	Pactole
+T17	func.coll 1489 1493	rois
+T18	pers.ind 1499 1508	Hippolyte
+T19	time.hour.rel 1930 1937	le soir
+T20	func.coll 2428 2434	poètes
+T21	func.ind 2787 2805	Serviteur de Jésus
+T22	pers.ind 2800 2805	Jésus
+T23	func.ind 2807 2827	courtisan de Cythère
+T24	pers.ind 2820 2827	Cythère
+T25	func.ind 2829 2837	Mendiant
+T26	pers.ind 2851 2857	Crésus
+T27	time.hour.rel 3214 3222	le matin
+T28	pers.ind 3311 3315	Caïn
+T29	pers.ind 3353 3357	Dieu
+T30	func.coll 3462 3470	matelots
+T31	time.date.rel 3615 3626	aujourd'hui
+T32	time.date.rel 3628 3632	Hier
+T33	time.date.rel 3634 3640	demain
+T34	func.ind 3825 3834	laboureur
+T35	loc.adm.town 4182 4187	Paris
+T36	pers.ind 4335 4342	Bacchus
+T37	pers.ind 4384 4395	Juif errant
+T38	func.coll 4409 4416	apôtres
+T39	func.ind 4616 4625	prêtresse

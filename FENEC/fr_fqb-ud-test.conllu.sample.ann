@@ -1,0 +1,81 @@
+T1	org.ent 33 45	J. C. Penney
+T4	amount 87 99	un pied cube
+T5	pers.ind 123 143	Dwight D. Eisenhower
+T7	loc.adm.reg 174 182	Maryland
+T8	func.ind 287 321	troisième président des États-Unis
+T9	loc.adm.nat 311 321	États-Unis
+T10	loc.phys.astro 363 369	soleil
+T11	loc.adm.town 403 411	Montréal
+T12	pers.ind 450 464	Woodrow Wilson
+T13	loc.fac 543 548	Kaaba
+T14	func.ind 660 668	musicien
+T15	pers.ind 669 698	Ernesto Antonio Puente Junior
+T16	pers.ind 812 818	Mozart
+T17	loc.adm.nat 856 865	Indonésie
+T18	func.ind 878 884	auteur
+T19	loc.adm.reg 1054 1062	Oklahoma
+T20	pers.ind 1109 1126	Charles Lindbergh
+T21	pers.coll 1186 1214	nouvelles recrues militaires
+T22	pers.ind 1236 1246	Tom Cruise
+T23	pers.ind 1268 1280	Jane Goodall
+T24	loc.adm.nat 1332 1341	Thaïlande
+T25	loc.adm.town 1372 1379	Seattle
+T26	pers.ind 1403 1419	Huckleberry Finn
+T27	prod.art 1403 1419	Huckleberry Finn
+T28	pers.ind 1441 1455	John Steinbeck
+T29	pers.ind 1497 1509	Nicolas Cage
+T30	loc.adm.nat 1617 1622	Japon
+T31	func.ind 1680 1687	lanceur
+T32	pers.ind 1688 1700	Warren Spahn
+T33	amount 1723 1733	20 parties
+T34	amount 1752 1762	21 saisons
+T35	loc.adm.nat 1806 1816	États-Unis
+T36	pers.ind 1866 1879	Deng Xiaoping
+T37	func.ind 1894 1915	compositeur américain
+T38	prod.art 1938 1953	West Side Story
+T39	org.ent 1971 2000	université Prairie View A & M
+T40	loc.adm.nat 2075 2082	Ukraine
+T41	loc.adm.nat 2089 2095	Russie
+T42	pers.ind 2137 2142	Vénus
+T43	pers.ind 2161 2179	Martin Luther King
+T44	loc.fac 2278 2292	aéroport Logan
+T45	time.date.abs 2316 2338	Le jour de la Bastille
+T46	loc.fac 2330 2338	Bastille
+T47	func.ind 2409 2426	reine de Hollande
+T48	loc.adm.nat 2418 2426	Hollande
+T49	prod.object 2463 2494	avions militaires Strike Eagles
+T50	time.date.abs 2498 2502	1990
+T51	pers.ind 2560 2570	Bob Marley
+T52	org.ent 2740 2750	Greenpeace
+T53	loc.adm.nat 2798 2805	Mexique
+T54	pers.ind 2881 2896	Guillermo Ortiz
+T55	func.ind 2931 2943	océanographe
+T56	pers.ind 2944 2955	John Potter
+T57	loc.phys.geo 2998 3008	Matterhorn
+T58	loc.phys.astro 3048 3053	Terre
+T59	pers.ind 3201 3220	Mikhail Baryshnikov
+T60	pers.ind 3376 3381	Burns
+T61	event 3459 3473	Coupe Breeders
+T62	prod.award 3459 3473	Coupe Breeders
+T63	time.date.abs 3477 3481	1993
+T64	event 3504 3529	Ligue Majeure de baseball
+T65	prod.award 3601 3623	Oscar du meilleur film
+T66	loc.adm.reg 3822 3834	Pennsylvanie
+T67	loc.adm.town 3901 3912	San Antonio
+T68	loc.adm.reg 3917 3922	Texas
+T69	loc.phys.hydro 3934 3942	Orénoque
+T70	loc.phys.geo 3964 3977	îles Pribilof
+T71	loc.adm.nat 4003 4012	Argentine
+T72	pers.coll 4129 4140	Flintstones
+T73	loc.adm.town 4168 4176	Pretoria
+T74	prod.award 4228 4253	prix Nobel de littérature
+T75	prod.object 4277 4290	Coupe Stanley
+T76	pers.ind 4421 4427	Hitler
+T77	loc.fac 4460 4480	université de Purdue
+T78	loc.adm.reg 4547 4551	Utah
+T79	func.ind 4570 4573	roi
+T80	pers.ind 4574 4583	Louis XIV
+T81	pers.coll 4597 4608	Tchétchènes
+T82	pers.ind 4609 4616	Staline
+T83	loc.adm.town 4716 4724	Lynmouth
+T84	loc.fac 4798 4811	arche Gateway
