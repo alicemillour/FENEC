@@ -20,4 +20,6 @@ FENEC (FrEnch Named-entity Evaluation Corpus) est un corpus à échantillons éq
 
 # Citer FENEC
 
-`à venir`
+Alice Millour, Yoann Dupont, Alexane Jouglar, and Karën Fort. 2022. FENEC : un corpus équilibré pour l’évaluation des entités nommées en français (FENEC : a balanced sample corpus for French named entity recognition ). In Actes de la 29e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conférence principale, pages 82–94, Avignon, France. ATALA.
+
+https://aclanthology.org/2022.jeptalnrecital-taln.8/
