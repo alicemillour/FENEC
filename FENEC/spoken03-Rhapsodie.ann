@@ -1,0 +1,53 @@
+T1	pers.ind 100 110	Yves Klein
+T2	loc.oro 266 284	la place Vaucanson
+T3	time.date.abs 368 387	dix-septième siècle
+T4	time.date.abs 391 410	dix-huitième siècle
+T5	org.ent 651 665	France Loisirs
+T6	loc.add.phys 693 721	l' arrêt euh Hubert Dubedout
+T7	pers.ind 751 757	Agüero
+T8	pers.ind 878 890	Rachida Dati
+T9	prod.media 903 923	Libération Champagne
+T10	loc.adm.reg 914 923	Champagne
+T11	prod.media 1092 1103	La Provence
+T12	org.ent 1166 1187	lycée euh de Mulhouse
+T13	loc.adm.town 1179 1187	Mulhouse
+T14	loc.adm.sup 1312 1320	Occident
+T15	org.ent 1425 1429	CNRS
+T16	loc.fac 1456 1470	La Nef Chavant
+T17	loc.adm.town 1463 1470	Chavant
+T18	loc.adm.town 1556 1564	Marsabit
+T19	loc.adm.nat 1627 1632	Kenya
+T20	loc.adm.nat 1651 1656	Kenya
+T21	loc.adm.nat 1833 1839	France
+T22	loc.adm.sup 1845 1854	l' Europe
+T23	loc.adm.sup 1859 1865	Europe
+T24	loc.adm.sup 1896 1902	Europe
+T25	time.date.rel 2082 2132	il y a maintenant pff peut-être au moins douze ans
+T26	time.date.rel 2089 2099	maintenant
+T27	amount 2123 2132	douze ans
+T28	amount 2147 2163	douze treize ans
+T29	org.ent 2362 2380	Maison du tourisme
+T30	loc.oro 2413 2433	rue de la République
+T31	loc.oro 2450 2470	rue de la République
+T32	pers.ind 2718 2732	Pascale Ferran
+T33	org.ent 3192 3206	La Nef Chavant
+T34	loc.adm.town 3199 3206	Chavant
+T35	func.coll 3320 3334	flying doctors
+T36	org.ent 3341 3345	Mref
+T37	func.coll 3378 3386	médecins
+T38	loc.adm.town 3431 3438	Nairobi
+T39	loc.adm.nat 3442 3447	Kenya
+T40	loc.oro 3472 3490	boulevard Gambetta
+T41	func.ind 3615 3624	boulanger
+T42	loc.oro 3683 3699	place Notre-Dame
+T43	time.date.abs 3858 3874	l' an deux mille
+T44	loc.adm.town 3933 3938	Paris
+T45	loc.adm.reg 3963 3980	région parisienne
+T46	pers.ind 4230 4244	Roland Barthes
+T47	pers.ind 4272 4281	Bachelard
+T48	func.ind 4393 4402	boulanger
+T49	func.coll 4441 4452	professeurs
+T50	time.hour.abs 4552 4571	vingt heures quinze
+T51	time.hour.abs 4651 4668	vers vingt heures
+T52	time.hour.abs 4672 4694	dix-neuf heures trente
+T53	org.ent 4938 4949	Paul Valéry

@@ -1,0 +1,106 @@
+T1	org.ent 120 140	Les Lutins du Villon
+T2	org.ent 142 148	CAF 70
+T3	loc.oro 150 171	cours François-Villon
+T4	loc.add.elec 178 192	03.84.97.17.45
+T5	time.hour.abs 194 213	de 7 h 30 à 12 h 15
+T6	time.hour.abs 217 234	de 13 h 30 à 18 h
+T7	loc.adm.reg 395 404	Grand Est
+T8	loc.adm.reg 413 421	Bas-Rhin
+T9	loc.adm.reg 426 435	Haut-Rhin
+T10	loc.adm.reg 440 458	Meurthe et Moselle
+T11	loc.adm.reg 463 470	Moselle
+T12	loc.adm.reg 475 480	Doubs
+T13	loc.adm.reg 486 492	Vosges
+T14	loc.adm.reg 499 516	région parisienne
+T15	pers.coll 605 622	conseil municipal
+T16	func.coll 783 794	professeurs
+T17	pers.ind 1017 1027	Guy Flégny
+T18	func.ind 1029 1064	président de l'amicale de la police
+T19	org.ent 1042 1064	l'amicale de la police
+T20	pers.ind 1162 1181	Gilbert Franchequin
+T21	loc.adm.reg 1426 1444	Nord-Pas de Calais
+T22	loc.adm.town 1473 1480	Roubaix
+T23	func.ind 1490 1547	vice-président du conseil général en charge de la culture
+T24	org.adm 1508 1547	conseil général en charge de la culture
+T25	func.ind 1551 1598	conseiller municipal de la ville de Neufchâteau
+T26	loc.adm.town 1587 1598	Neufchâteau
+T27	org.ent 1660 1695	Maison des parents de Franche-Comté
+T28	loc.adm.reg 1682 1695	Franche-Comté
+T29	loc.adm.town 1707 1715	Besançon
+T30	time.date.abs 1716 1732	en décembre 2001
+T31	org.ent 1756 1800	Fondation des Hôpitaux de Paris et de France
+T32	loc.adm.town 1782 1787	Paris
+T33	loc.adm.nat 1794 1800	France
+T34	amount 1818 1837	de 11 à 17 chambres
+T35	prod.art 1841 1862	Ah ! si j'étais riche
+T36	pers.ind 2060 2078	Julien Groslambert
+T37	loc.add.elec 2082 2096	06.88.69.19.81
+T38	loc.add.elec 2103 2117	03.81.86.05.51
+T39	prod.media 2268 2285	L'EST RÉPUBLICAIN
+T40	loc.add.phys 2298 2320	18, faubourg de France
+T41	loc.oro 2302 2320	faubourg de France
+T42	time.hour.abs 2322 2335	de 9 h à 12 h
+T43	time.hour.abs 2338 2349	14 h à 20 h
+T44	loc.add.elec 2356 2370	03.29.88.38.20
+T45	loc.add.phys 2417 2443	BP 241, 55106 Verdun cedex
+T46	loc.adm.town 2431 2437	Verdun
+T47	pers.ind 2475 2497	roi Albert de Belgique
+T48	func.ind 2475 2478	roi
+T49	loc.adm.nat 2489 2497	Belgique
+T50	func.coll 2574 2586	Ambulanciers
+T51	amount 2589 2598	24 heures
+T52	amount 2603 2605	24
+T53	org.ent 2612 2630	Office du Tourisme
+T54	loc.oro 2633 2650	parvis cathédrale
+T55	time.hour.abs 2651 2658	10-12 h
+T56	time.hour.abs 2662 2668	14-17h
+T57	amount 2689 2695	48 ans
+T58	prod.media 2763 2780	L'EST REPUBLICAIN
+T59	pers.ind 2781 2798	Jacques Vuillemez
+T60	loc.add.phys 2800 2833	3, chemin du Stand, 25500 Morteau
+T61	loc.oro 2803 2818	chemin du Stand
+T62	loc.adm.town 2826 2833	Morteau
+T63	pers.ind 2868 2873	Aysel
+T64	pers.ind 2877 2882	Dogan
+T65	loc.adm.town 2906 2917	Bethoncourt
+T66	event 2984 2994	Résistance
+T67	amount 3018 3029	2 494 morts
+T68	amount 3037 3050	564 personnes
+T69	amount 3133 3141	32 euros
+T70	pers.ind 3181 3197	Bertrand Ternard
+T71	func.ind 3199 3242	animateur technique de la Ligue de Lorraine
+T72	org.ent 3225 3242	Ligue de Lorraine
+T73	loc.adm.reg 3234 3242	Lorraine
+T74	org.ent 3258 3288	l'école du Château de Commercy
+T75	loc.fac 3269 3288	Château de Commercy
+T76	loc.adm.town 3280 3288	Commercy
+T77	amount 3299 3312	six vendredis
+T78	time.hour.abs 3324 3337	de 9 h à 11 h
+T79	time.hour.abs 3341 3358	de 14 h à 16 h 30
+T80	amount 3516 3521	150 €
+T81	org.ent 3539 3551	club de foot
+T82	org.ent 3539 3543	club
+T83	org.ent 3539 3543	club
+T84	org.ent 3553 3559	tennis
+T85	org.ent 3563 3569	basket
+T86	loc.adm.town 3570 3579	d'Amancey
+T87	amount 3630 3661	trois petits enfants handicapés
+T88	time.hour.abs 3667 3674	16 h 40
+T89	pers.ind 3706 3719	Mme Brindille
+T90	amount 3871 3884	150 personnes
+T91	loc.adm.town 3887 3900	Saint-Maurice
+T92	time.date.abs 3902 3910	dimanche
+T93	prod.art 3960 3980	La planète au trésor
+T94	time.hour.abs 3985 3992	14 h 30
+T95	pers.ind 3994 4008	Patrick Alotto
+T96	func.ind 4020 4047	entraîneur de Saint-Gervais
+T97	loc.adm.town 4034 4047	Saint-Gervais
+T98	loc.adm.town 4084 4093	qu'Epinal
+T99	pers.coll 4127 4157	EQUIPE D'ANIMATION PAROISSIALE
+T100	time.date.abs 4181 4199	le jeudi 9 janvier
+T101	time.hour.abs 4200 4209	à 20 h 30
+T102	loc.adm.town 4293 4301	Besançon
+T103	func.coll 4335 4350	pères Chartreux
+T104	func.coll 4435 4440	Moine
+T105	time.date.rel 4480 4504	au fil du siècle dernier
+T106	amount 4541 4571	500 paires de lattes anciennes

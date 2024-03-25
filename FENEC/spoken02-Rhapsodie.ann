@@ -1,0 +1,53 @@
+T1	org.ent 13 27	lycée Stendhal
+T2	time.date.abs 203 225	entre les deux guerres
+T3	org.ent 324 342	Maison du tourisme
+T4	time.date.rel 374 385	aujourd'hui
+T5	org.ent 612 654	la euh Chambre de Commerce et d' Industrie
+T6	time.date.rel 794 805	cette année
+T7	time.date.abs 814 835	l' an deux mille cent
+T8	org.adm 1001 1016	le gouvernement
+T9	loc.adm.town 1226 1234	Mulhouse
+T10	pers.ind 1297 1311	Maxi Rodriguez
+T11	pers.ind 1335 1344	Gutiérrez
+T12	pers.coll 1761 1773	les Français
+T13	pers.ind 2056 2063	Charlot
+T14	pers.ind 2271 2275	Gago
+T15	event 2333 2349	marché d' Aligre
+T16	loc.adm.town 2343 2349	Aligre
+T17	org.ent 2378 2391	A Small World
+T18	pers.ind 2432 2449	Quentin Tarantino
+T19	pers.ind 2471 2483	Paris Hilton
+T20	pers.ind 2513 2527	Massimo Gargia
+T21	pers.ind 2624 2629	Messi
+T22	pers.ind 2646 2650	Papa
+T23	pers.ind 2662 2671	Gutiérrez
+T24	pers.coll 2735 2754	l' équipe de France
+T25	loc.adm.nat 2748 2754	France
+T26	pers.coll 3021 3040	l' équipe de France
+T27	loc.adm.nat 3034 3040	France
+T28	pers.coll 3053 3066	les Argentins
+T29	prod.media 3214 3222	L' Union
+T30	loc.adm.town 3225 3230	Reims
+T31	loc.fac 3693 3707	La Nef Chavant
+T32	loc.adm.town 3700 3707	Chavant
+T33	time.date.rel 3845 3859	la renaissance
+T34	time.date.abs 3884 3899	seizième siècle
+T35	time.date.rel 3915 3929	la renaissance
+T36	pers.coll 4111 4121	Françaises
+T37	pers.coll 4125 4133	Français
+T38	loc.adm.reg 4137 4146	métropole
+T39	loc.adm.reg 4150 4161	outre - mer
+T40	time.date.abs 4236 4252	année deux mille
+T41	pers.ind 4263 4269	Agüero
+T42	pers.ind 4279 4288	Rodriguez
+T43	pers.ind 4289 4298	Rodriguez
+T44	pers.ind 4299 4308	Rodriguez
+T45	pers.coll 4312 4325	les Argentins
+T46	pers.ind 4345 4353	Maradona
+T47	pers.ind 4404 4411	Chaplin
+T48	pers.ind 4580 4594	Steve Mandanda
+T49	pers.coll 4635 4652	les euh Argentins
+T50	pers.coll 4675 4691	équipe de France
+T51	loc.adm.nat 4685 4691	France
+T52	loc.adm.town 4959 4964	Paris
+T53	loc.adm.town 4995 5000	Paris

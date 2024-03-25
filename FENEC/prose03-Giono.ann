@@ -1,0 +1,37 @@
+T1	pers.ind 22 26	Dieu
+T2	amount 98 111	pendant un an
+T3	amount 120 145	plus de dix mille érables
+T4	amount 396 417	plus de cinquante ans
+T5	time.date.rel 435 447	le lendemain
+T6	amount 476 488	tout le jour
+T7	time.hour.abs 517 521	midi
+T8	amount 639 651	tout le jour
+T9	time.date.rel 694 710	Depuis la veille
+T10	func.ind 743 749	berger
+T11	func.coll 871 892	capitaines forestiers
+T12	amount 921 945	Une trentaine de moutons
+T13	amount 1003 1022	Au bout d’une heure
+T14	amount 1287 1304	deux cents mètres
+T15	amount 1631 1650	soixante-quinze ans
+T16	time.date.rel 2046 2066	un beau jour de juin
+T17	time.date.abs 2268 2275	En 1933
+T18	func.ind 2301 2316	garde forestier
+T19	time.date.rel 2353 2358	jadis
+T20	time.date.abs 2535 2539	1920
+T21	amount 2565 2577	plus d’un an
+T22	pers.ind 2599 2615	Elzéard Bouffier
+T23	func.coll 2818 2830	archéologues
+T24	time.date.abs 2900 2919	au vingtième siècle
+T25	time.date.rel 3085 3090	jadis
+T26	amount 3127 3148	quatre-vingt-sept ans
+T27	time.date.abs 3281 3288	en 1913
+T28	amount 3782 3807	pendant de longues années
+T29	time.date.rel 3915 3930	L’année d’après
+T30	event 3944 3956	guerre de 14
+T31	time.date.abs 3954 3956	14
+T32	amount 3985 4001	pendant cinq ans
+T33	pers.ind 4113 4129	Elzéard Bouffier
+T34	time.date.abs 4152 4164	en juin 1945
+T35	time.date.abs 4166 4173	En 1935
+T36	amount 4301 4316	quelques heures
+T37	time.date.rel 4682 4687	jadis
