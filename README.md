@@ -5,7 +5,7 @@ FENEC (FrEnch Named-entity Evaluation Corpus) est un corpus à échantillons éq
 # Contenu du corpus annoté
 
 | # | Document | Source | Période | Genre | Nb. phrases (Nb. tokens) | Licence |
-| -- |:--------:|:-------:|:-------:|:-----:|:------------------------:| -------:|
+| -- |:--------|:-------:|:-------:|:-----:|:------------------------:| -------:|
 1 | prose01-Voltaire  | *Traité sur la Tolérance*, Voltaire (id : 42131-0) | XVIIIe | prose | 40 (1 020) | Project [Gutenberg](https://www.gutenberg.org/policy/license.html) |
 2 | prose02-Zola  | *Le Ventre de Paris*, Émile Zola (id : pg6470) | XIXe | prose | 51 (1 002) | Project [Gutenberg](https://www.gutenberg.org/policy/license.html) |
 3 | prose03-Giono | *L'Homme qui plantait des arbres*, Jean Giono | XXe | prose  | 53 (1 013) | Public Domain
