@@ -1,0 +1,48 @@
+T1	org 16 21	Hôtel
+T2	geogFeat 129 132	mer
+T3	roleName 179 185	mousse
+T4	geogFeat 234 242	bosquets
+T5	roleName 345 355	princesses
+T6	time 573 582	la soirée
+T7	placeName 717 722	Épire
+T8	geogName 758 770	île du Japon
+T9	geogFeat 758 761	île
+T10	placeName 781 787	Arabie
+T11	persName 1019 1021	Il
+T12	surname 1019 1021	Il
+T13	geogFeat 1265 1272	déserts
+T14	time 1334 1343	Le moment
+T15	geogFeat 1360 1364	mers
+T16	geogFeat 1411 1418	planète
+T17	productName 1513 1518	Bible
+T18	title 1513 1518	Bible
+T19	persName 1641 1647	Prince
+T20	persName 1674 1680	Horace
+T21	nationality 1730 1739	Chinoises
+T22	roleName 1743 1750	Boucher
+T23	date 1894 1909	de cette veille
+T24	preInclude 1897 1902	cette
+T25	persName 2114 2119	Diane
+T26	geogFeat 2319 2323	bois
+T27	geogFeat 2471 2477	futaie
+T28	date 2531 2543	le printemps
+T29	date 2531 2543	le printemps
+T30	geogFeat 2595 2599	bois
+T31	persName 3125 3134	madame Il
+T32	roleName 3125 3131	madame
+T33	surname 3132 3134	Il
+T34	persName 3345 3347	Il
+T35	surname 3345 3347	Il
+T36	geogFeat 3899 3903	mers
+T37	measure 3990 4008	quinze mille pieds
+T38	offset 4009 4028	de diamètre environ
+T39	geogFeat 4329 4333	bois
+T40	time 4618 4622	midi
+T41	product 4684 4692	journaux
+T42	geogFeat 4857 4861	mers
+T43	extent 4865 4874	des nuits
+T44	measure 4865 4874	des nuits
+T45	persName 4996 5010	Nabuchodonosor
+T46	orgName 5057 5067	ministères
+T47	roleName 5171 5179	gardiens
+T48	roleName 5195 5204	officiers

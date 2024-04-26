@@ -1,0 +1,118 @@
+T1	org 25 34	magasin J
+T2	orgName 33 34	J
+T3	placeName 311 321	États-Unis
+T4	geogFeat 331 338	planète
+T5	placeName 403 411	Montréal
+T6	org 498 508	université
+T7	orgName 543 548	Kaaba
+T8	persName 660 698	musicien Ernesto Antonio Puente Junior
+T9	roleName 660 668	musicien
+T10	forename 669 676	Ernesto
+T11	forename 677 684	Antonio
+T12	surname 685 698	Puente Junior
+T13	date 796 811	En quelle année
+T14	geogFeat 841 845	îles
+T15	placeName 856 865	Indonésie
+T16	roleName 878 884	auteur
+T17	persName 889 908	Jonathan Livingston
+T18	forename 889 897	Jonathan
+T19	surname 898 908	Livingston
+T20	orgName 936 960	The Pit and the Pendulum
+T21	date 1036 1051	En quelle année
+T22	orgName 1080 1084	État
+T23	persName 1109 1126	Charles Lindbergh
+T24	forename 1109 1116	Charles
+T25	surname 1117 1126	Lindbergh
+T26	persName 1236 1246	Tom Cruise
+T27	forename 1236 1239	Tom
+T28	surname 1240 1246	Cruise
+T29	persName 1268 1280	Jane Goodall
+T30	forename 1268 1272	Jane
+T31	surname 1273 1280	Goodall
+T32	placeName 1332 1341	Thaïlande
+T33	placeName 1372 1379	Seattle
+T34	persName 1441 1455	John Steinbeck
+T35	forename 1441 1445	John
+T36	surname 1446 1455	Steinbeck
+T37	persName 1497 1509	Nicolas Cage
+T38	forename 1497 1504	Nicolas
+T39	surname 1505 1509	Cage
+T40	date 1512 1527	En quelle année
+T41	placeName 1617 1622	Japon
+T42	persName 1680 1700	lanceur Warren Spahn
+T43	roleName 1680 1687	lanceur
+T44	forename 1688 1694	Warren
+T45	surname 1695 1700	Spahn
+T46	measure 1752 1762	21 saisons
+T47	geogFeat 1794 1801	rivière
+T48	placeName 1806 1816	États-Unis
+T49	persName 1866 1879	Deng Xiaoping
+T50	roleName 1894 1915	compositeur américain
+T51	demonym 1906 1915	américain
+T52	productName 1938 1953	West Side Story
+T53	title 1938 1953	West Side Story
+T54	org 1971 1989	université Prairie
+T55	orgName 1982 1989	Prairie
+T56	placeName 2075 2082	Ukraine
+T57	placeName 2089 2095	Russie
+T58	persName 2137 2142	Vénus
+T59	persName 2161 2179	Martin Luther King
+T60	forename 2161 2167	Martin
+T61	forename 2168 2174	Luther
+T62	surname 2175 2179	King
+T63	placeName 2278 2292	aéroport Logan
+T64	date 2316 2323	Le jour
+T65	orgName 2330 2338	Bastille
+T66	orgName 2377 2394	The Pines of Rome
+T67	roleName 2409 2414	reine
+T68	placeName 2418 2426	Hollande
+T69	date 2495 2502	en 1990
+T70	persName 2560 2570	Bob Marley
+T71	forename 2560 2563	Bob
+T72	surname 2564 2570	Marley
+T73	placeName 2798 2805	Mexique
+T74	persName 2881 2896	Guillermo Ortiz
+T75	forename 2881 2890	Guillermo
+T76	surname 2891 2896	Ortiz
+T77	org 2909 2928	centre de recherche
+T78	roleName 2931 2943	océanographe
+T79	persName 2944 2955	John Potter
+T80	forename 2944 2948	John
+T81	surname 2949 2955	Potter
+T82	geogFeat 3048 3053	Terre
+T83	persName 3201 3220	Mikhail Baryshnikov
+T84	forename 3201 3208	Mikhail
+T85	surname 3209 3220	Baryshnikov
+T86	roleName 3240 3249	inventeur
+T87	geogFeat 3324 3332	montagne
+T88	date 3474 3481	en 1993
+T89	org 3491 3509	équipe de la Ligue
+T90	orgName 3498 3509	de la Ligue
+T91	roleName 3739 3745	auteur
+T92	orgName 3756 3788	The Midnight Ride of Paul Revere
+T93	orgName 3756 3776	The Midnight Ride of
+T94	persName 3777 3788	Paul Revere
+T95	forename 3777 3781	Paul
+T96	surname 3782 3788	Revere
+T97	orgName 3814 3834	État de Pennsylvanie
+T98	orgName 3814 3818	État
+T99	persName 3905 3912	Antonio
+T100	forename 3905 3912	Antonio
+T101	geogName 3934 3942	Orénoque
+T102	geogName 3964 3977	îles Pribilof
+T103	geogFeat 3964 3968	îles
+T104	placeName 4003 4012	Argentine
+T105	productName 4129 4140	Flintstones
+T106	title 4129 4140	Flintstones
+T107	placeName 4168 4176	Pretoria
+T108	date 4396 4411	En quelle année
+T109	persName 4421 4427	Hitler
+T110	org 4460 4480	université de Purdue
+T111	orgName 4471 4480	de Purdue
+T112	org 4524 4537	parc national
+T113	orgName 4529 4537	national
+T114	persName 4570 4579	roi Louis
+T115	roleName 4570 4573	roi
+T116	surname 4574 4579	Louis
+T117	persName 4609 4616	Staline
+T118	date 4765 4780	En quelle année

@@ -1,0 +1,61 @@
+T1	placeName 104 114	Saint-Jean
+T2	placeName 118 127	Maurienne
+T3	date 259 281	vingt-et-unième siècle
+T4	gCentury 259 281	vingt-et-unième siècle
+T5	date 292 301	le siècle
+T6	roleName 336 343	général
+T7	time 363 388	avant vingt heures quinze
+T8	time 468 485	vers vingt heures
+T9	measure 489 511	dix-neuf heures trente
+T10	time 539 547	plus tôt
+T11	persName 577 589	Paul Vallier
+T12	forename 577 581	Paul
+T13	surname 582 589	Vallier
+T14	persName 612 622	Notre-Dame
+T15	adress 644 661	rue de Strasbourg
+T16	adrLine 644 661	rue de Strasbourg
+T17	placeName 651 661	Strasbourg
+T18	adress 772 789	boulevard Diderot
+T19	adrLine 772 789	boulevard Diderot
+T20	persName 782 789	Diderot
+T21	persName 893 904	Gabi Heinze
+T22	forename 893 897	Gabi
+T23	surname 898 904	Heinze
+T24	time 995 1006	à ce moment
+T25	org 1235 1243	boutique
+T26	roleName 1304 1311	médecin
+T27	org 1651 1656	école
+T28	time 1677 1687	maintenant
+T29	roleName 1805 1812	général
+T30	time 1832 1857	avant vingt heures quinze
+T31	time 1937 1954	vers vingt heures
+T32	measure 1958 1980	dix-neuf heures trente
+T33	time 2008 2016	plus tôt
+T34	org 2058 2065	jardins
+T35	extent 2145 2161	à quatre minutes
+T36	measure 2147 2161	quatre minutes
+T37	measure 2381 2396	cent kilomètres
+T38	org 2617 2623	presse
+T39	product 2852 2862	Chroniques
+T40	persName 2918 2923	Kafka
+T41	roleName 2968 2972	chef
+T42	time 2989 3004	pour l' instant
+T43	measure 3101 3109	un livre
+T44	placeName 3470 3477	Afrique
+T45	placeName 3484 3492	Ethiopie
+T46	placeName 3496 3503	Somalie
+T47	placeName 3519 3525	Arabie
+T48	time 3554 3564	maintenant
+T49	extent 4011 4026	à trois minutes
+T50	measure 4013 4026	trois minutes
+T51	placeName 4197 4201	Aden
+T52	measure 4310 4322	cinq minutes
+T53	org 4340 4356	équipe de France
+T54	orgName 4347 4356	de France
+T55	country 4350 4356	France
+T56	geogFeat 4602 4609	surface
+T57	org 4749 4760	lycée Arago
+T58	orgName 4755 4760	Arago
+T59	persName 4861 4868	Diderot
+T60	roleName 4949 4958	boulanger
+T61	date 5114 5128	tous les jours

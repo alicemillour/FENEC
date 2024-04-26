@@ -1,0 +1,77 @@
+T1	geogFeat 10 14	îles
+T2	placeName 146 152	Hyères
+T3	persName 179 186	El Niño
+T4	forename 179 181	El
+T5	surname 182 186	Niño
+T6	ref 357 385	Practicing Philosophy (1997)
+T7	ref 387 409	Performing Live (2000)
+T8	ref 413 437	Surface and Depth (2002)
+T9	orgName 413 430	Surface and Depth
+T10	placeName 686 692	France
+T11	placeName 743 752	Hollywood
+T12	date 757 771	de 1930 à 1942
+T13	roleName 867 878	conceptrice
+T14	org 971 984	élevage belge
+T15	orgName 979 984	belge
+T16	persName 1098 1115	Hugues Mingarelli
+T17	forename 1098 1104	Hugues
+T18	surname 1105 1115	Mingarelli
+T19	placeName 1134 1136	UE
+T20	roleName 1257 1263	patron
+T21	geogFeat 1294 1301	plateau
+T22	product 1339 1347	magazine
+T23	date 1357 1364	en 2011
+T24	roleName 1909 1916	joueurs
+T25	placeName 2067 2072	Maroc
+T26	date 2073 2091	ces derniers jours
+T27	roleName 2097 2110	météorologues
+T28	placeName 2186 2193	Afrique
+T29	placeName 2201 2209	Antilles
+T30	measure 2293 2302	48 heures
+T31	roleName 2433 2441	voyageur
+T32	roleName 2525 2548	ancien Premier ministre
+T33	persName 2549 2566	Margaret Thatcher
+T34	forename 2549 2557	Margaret
+T35	surname 2558 2566	Thatcher
+T36	date 2637 2642	jeudi
+T37	gDayName 2637 2642	jeudi
+T38	adress 2646 2663	10 Downing Street
+T39	adrLine 2646 2663	10 Downing Street
+T40	address-number 2646 2648	10
+T41	adress 2704 2733	résidence du Premier ministre
+T42	adrLine 2704 2733	résidence du Premier ministre
+T43	w 2704 2713	résidence
+T44	roleName 2717 2733	Premier ministre
+T45	placeName 2787 2794	Saintes
+T46	roleName 2819 2825	évêque
+T47	placeName 2829 2842	Saintes Boson
+T48	placeName 2829 2836	Saintes
+T49	roleName 2851 2861	archevêque
+T50	placeName 2865 2873	Bordeaux
+T51	placeName 2905 2914	Aquitaine
+T52	product 2964 2977	documentaires
+T53	geogFeat 3101 3107	sommet
+T54	org 3182 3193	entreprises
+T55	placeName 3452 3475	département de la Frise
+T56	region 3470 3475	Frise
+T57	date 3482 3501	le 1er janvier 1811
+T58	date 3515 3531	le 11 avril 1814
+T59	measure 3640 3649	500 euros
+T60	roleName 3670 3674	père
+T61	date 3675 3686	chaque mois
+T62	time 3701 3715	pour ce moment
+T63	date 3788 3798	la journée
+T64	date 3832 3843	20 novembre
+T65	orgName 3870 3883	Nations unies
+T66	measure 4023 4028	5 ans
+T67	persName 4253 4268	Narcisse Pigeon
+T68	forename 4253 4261	Narcisse
+T69	surname 4262 4268	Pigeon
+T70	roleName 4292 4298	pilote
+T71	placeName 4464 4481	Collégiale Royale
+T72	orgName 4544 4585	département français des Bouches-du-Rhône
+T73	region 4569 4585	Bouches-du-Rhône
+T74	geogName 4692 4703	monts Oural
+T75	geogFeat 4692 4697	monts
+T76	placeName 4831 4836	Paris
+T77	event 4975 4995	Révolution française

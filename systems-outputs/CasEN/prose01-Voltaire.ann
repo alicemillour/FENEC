@@ -1,0 +1,47 @@
+T1	persName 90 95	Isaïe
+T2	roleName 133 136	Roi
+T3	orgName 139 146	Assyrie
+T4	placeName 158 164	Egypte
+T5	placeName 169 177	Ethiopie
+T6	placeName 602 607	Paris
+T7	persName 649 653	Marc
+T8	ref 715 719	[20]
+T9	persName 934 939	Juifs
+T10	ref 1234 1238	[25]
+T11	persName 1238 1243	Moïse
+T12	roleName 1331 1339	Cardinal
+T13	persName 1343 1348	Camus
+T14	date 1624 1633	autrefois
+T15	persName 1925 1934	Chrétiens
+T16	roleName 1944 1953	Empereurs
+T17	persName 2204 2208	Iman
+T18	placeName 2273 2280	Londres
+T19	persName 2305 2316	Catholiques
+T20	event 2341 2360	guerres de Religion
+T21	persName 2420 2431	Catholiques
+T22	persName 2482 2486	Ezra
+T23	productName 2526 2537	Pentateuque
+T24	title 2526 2537	Pentateuque
+T25	roleName 2568 2572	Rois
+T26	roleName 2585 2596	Ambassadeur
+T27	placeName 2600 2606	France
+T28	org 2824 2836	Cour de Rome
+T29	orgName 2829 2836	de Rome
+T30	persName 3113 3118	David
+T31	persName 3123 3130	Salomon
+T32	productName 3285 3302	Nouveau Testament
+T33	title 3285 3302	Nouveau Testament
+T34	productName 3369 3380	Pentateuque
+T35	title 3369 3380	Pentateuque
+T36	roleName 3505 3514	supporter
+T37	geogName 3694 3702	Jourdain
+T38	persName 3745 3750	Juifs
+T39	placeName 3785 3791	Orient
+T40	persName 3885 3889	Isis
+T41	placeName 3928 3933	Syrie
+T42	nationality 3940 3949	étrangers
+T43	persName 4083 4092	Chrétiens
+T44	roleName 4340 4347	Voyants
+T45	nationality 4357 4366	Egyptiens
+T46	persName 4378 4383	Juifs
+T47	persName 4654 4665	Calvinistes

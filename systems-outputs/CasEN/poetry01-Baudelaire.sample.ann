@@ -1,0 +1,40 @@
+T1	placeName 0 6	Lesbos
+T2	product 82 86	écho
+T3	persName 134 139	Vénus
+T4	placeName 175 181	Lesbos
+T5	roleName 373 380	boucher
+T6	persName 388 393	Moïse
+T7	persName 934 939	Vénus
+T8	geogFeat 968 975	versant
+T9	geogFeat 1056 1061	Océan
+T10	persName 1099 1104	Vénus
+T11	persName 1174 1183	mère Même
+T12	addName 1174 1178	mère
+T13	surname 1179 1183	Même
+T14	roleName 1232 1237	soeur
+T15	date 1279 1286	automne
+T16	date 1279 1286	automne
+T17	roleName 1758 1763	soeur
+T18	time 1930 1937	le soir
+T19	geogFeat 2059 2063	mers
+T20	geogFeat 2194 2197	mer
+T21	roleName 2428 2434	poètes
+T22	date 2642 2647	jadis
+T23	geogFeat 2719 2722	mer
+T24	geogFeat 2730 2735	terre
+T25	persName 2800 2805	Jésus
+T26	placeName 2820 2827	Cythère
+T27	persName 2851 2857	Crésus
+T28	time 3209 3222	Dans le matin
+T29	persName 3311 3315	Caïn
+T30	geogFeat 3341 3346	terre
+T31	geogFeat 3373 3378	forêt
+T32	geogFeat 3488 3491	île
+T33	datePeriod 3615 3640	aujourd'hui, Hier, demain
+T34	date 3615 3626	aujourd'hui
+T35	date 3628 3632	Hier
+T36	date 3634 3640	demain
+T37	geogFeat 3708 3714	désert
+T38	placeName 4182 4187	Paris
+T39	persName 4335 4342	Bacchus
+T40	persName 4384 4388	Juif
