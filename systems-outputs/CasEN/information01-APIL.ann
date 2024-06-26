@@ -1,0 +1,117 @@
+T1	measure 17 26	2ème jour
+T2	time 67 81	de 10 h à 18 h
+T3	roleName 103 110	auteurs
+T4	time 121 139	entre 12 h et 14 h
+T5	date 220 230	23 juillet
+T6	date 386 398	Octobre 2011
+T7	date 399 411	15 septembre
+T8	placeName 457 470	Musée Colette
+T9	placeName 474 493	Château de Guédelon
+T10	date 563 579	0 et 11 décembre
+T11	date 599 606	de Noël
+T12	persName 707 723	Matthieu Normand
+T13	forename 707 715	Matthieu
+T14	surname 716 723	Normand
+T15	persName 727 743	Nicolas Collinet
+T16	forename 727 734	Nicolas
+T17	surname 735 743	Collinet
+T18	placeName 749 765	Halle Circulaire
+T19	time 766 775	à 20 h 30
+T20	placeName 790 806	Villa de l'Extra
+T21	date 880 890	16 juillet
+T22	measure 916 919	9 h
+T23	measure 954 965	Une seconde
+T24	measure 1030 1033	5 €
+T25	measure 1037 1040	3 €
+T26	persName 1184 1196	Paul Breisch
+T27	forename 1184 1188	Paul
+T28	surname 1189 1196	Breisch
+T29	adress 1203 1227	cathédrale de Luxembourg
+T30	adrLine 1203 1227	cathédrale de Luxembourg
+T31	w 1203 1213	cathédrale
+T32	placeName 1217 1227	Luxembourg
+T33	time 1237 1243	à 17 h
+T34	date 1245 1265	23 juin au 7 juillet
+T35	org 1268 1275	Cabaret
+T36	date 1380 1400	Du 9 au 11 septembre
+T37	extent 1380 1390	Du 9 au 11
+T38	val 1383 1384	9
+T39	val 1388 1390	11
+T40	persName 1451 1467	Sylvie Vernageau
+T41	forename 1451 1457	Sylvie
+T42	surname 1458 1467	Vernageau
+T43	measure 1487 1490	9 h
+T44	measure 1510 1514	14 h
+T45	measure 1534 1539	150 €
+T46	persName 1641 1645	Jean
+T47	forename 1641 1645	Jean
+T48	time 1668 1674	à 19 h
+T49	placeName 1792 1798	France
+T50	placeName 1802 1808	Russie
+T51	adress 1818 1834	église à 20 h 30
+T52	adrLine 1818 1834	église à 20 h 30
+T53	w 1818 1824	église
+T54	time 1825 1834	à 20 h 30
+T55	nationality 1882 1892	françaises
+T56	persName 1898 1914	Philippe Borecek
+T57	forename 1898 1906	Philippe
+T58	surname 1907 1914	Borecek
+T59	persName 1934 1950	Ivan Netchiporko
+T60	forename 1934 1938	Ivan
+T61	surname 1939 1950	Netchiporko
+T62	event 2050 2064	Fête du Cochon
+T63	date 2088 2095	26 août
+T64	placeName 2319 2323	Aube
+T65	placeName 2351 2365	Musée du Cidre
+T66	adress 2367 2384	22 rue Largentier
+T67	adrLine 2367 2384	22 rue Largentier
+T68	address-number 2367 2369	22
+T69	time 2385 2391	à 19 h
+T70	date 2439 2451	Juillet 2011
+T71	persName 2489 2505	M. Monnet Pierre
+T72	roleName 2489 2491	M.
+T73	surname 2492 2505	Monnet Pierre
+T74	roleName 2507 2514	peintre
+T75	orgName 2518 2522	Pays
+T76	persName 2569 2575	Renoir
+T77	adress 2593 2598	2 rue
+T78	adrLine 2593 2598	2 rue
+T79	address-number 2593 2594	2
+T80	event 2618 2640	Journées du Patrimoine
+T81	placeName 2654 2674	église Saint Laurent
+T82	persName 2661 2674	Saint Laurent
+T83	roleName 2661 2666	Saint
+T84	surname 2667 2674	Laurent
+T85	placeName 2718 2741	MAROLLES-SOUS-LIGNIERES
+T86	date 2822 2833	4 septembre
+T87	time 2903 2909	à 18 h
+T88	persName 2946 2955	Jean Musy
+T89	forename 2946 2950	Jean
+T90	surname 2951 2955	Musy
+T91	measure 3039 3049	Une soirée
+T92	date 3057 3069	chaque année
+T93	date 3164 3171	24 août
+T94	org 3340 3365	école primaire d'Estissac
+T95	orgName 3355 3365	d'Estissac
+T96	time 3366 3384	à partir de 7 h 30
+T97	orgName 3502 3519	Cyclo Club Othéen
+T98	measure 3826 3831	355 €
+T99	date 3891 3906	Du 8 au 15 août
+T100	extent 3891 3901	Du 8 au 15
+T101	val 3894 3895	8
+T102	val 3899 3901	15
+T103	date 4063 4074	8 septembre
+T104	org 4087 4100	Café Surprise
+T105	orgName 4092 4100	Surprise
+T106	time 4143 4149	à 19 h
+T107	measure 4152 4156	15 €
+T108	date 4251 4267	Du 24 au 26 juin
+T109	extent 4251 4262	Du 24 au 26
+T110	val 4254 4256	24
+T111	val 4260 4262	26
+T112	persName 4320 4336	Sylvie Vernageau
+T113	forename 4320 4326	Sylvie
+T114	surname 4327 4336	Vernageau
+T115	measure 4347 4350	9 h
+T116	measure 4370 4374	14 h
+T117	measure 4394 4399	150 €
