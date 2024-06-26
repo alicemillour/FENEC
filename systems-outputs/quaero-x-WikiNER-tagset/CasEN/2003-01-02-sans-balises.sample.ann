@@ -1,0 +1,55 @@
+T1	MISC 42 51	magazines
+T4	LOC 413 421	Bas-Rhin
+T5	LOC 426 435	Haut-Rhin
+T6	LOC 440 458	Meurthe et Moselle
+T7	LOC 463 470	Moselle
+T8	LOC 475 480	Doubs
+T9	LOC 486 492	Vosges
+T10	ORG 605 622	conseil municipal
+T11	ORG 740 747	théâtre
+T12	MISC 783 794	professeurs
+T13	ORG 798 805	collège
+T15	PER 1017 1027	Guy Flégny
+T18	MISC 1029 1038	président
+T19	ORG 1058 1064	police
+T20	MISC 1066 1079	organisatrice
+T22	PER 1162 1181	Gilbert Franchequin
+T25	MISC 1256 1265	défenseur
+T26	ORG 1355 1362	comices
+T27	LOC 1431 1444	Pas de Calais
+T28	LOC 1473 1480	Roubaix
+T29	MISC 1490 1504	vice-président
+T30	ORG 1508 1523	conseil général
+T31	MISC 1551 1571	conseiller municipal
+T32	LOC 1682 1695	Franche-Comté
+T33	LOC 1707 1715	Besançon
+T35	ORG 1770 1787	Hôpitaux de Paris
+T36	ORG 1779 1787	de Paris
+T37	LOC 1794 1800	France
+T41	ORG 1988 1994	public
+T42	PER 2060 2078	Julien Groslambert
+T46	LOC 2314 2320	France
+T50	PER 2475 2485	roi Albert
+T51	MISC 2475 2478	roi
+T53	LOC 2489 2497	Belgique
+T57	PER 2781 2798	Jacques Vuillemez
+T60	LOC 2800 2833	3, chemin du Stand, 25500 Morteau
+T67	PER 3181 3197	Bertrand Ternard
+T70	MISC 3199 3208	animateur
+T71	LOC 3234 3242	Lorraine
+T72	ORG 3260 3276	école du Château
+T73	ORG 3266 3276	du Château
+T82	PER 3706 3719	Mme Brindille
+T83	MISC 3706 3709	Mme
+T85	MISC 3727 3742	accompagnatrice
+T86	LOC 3887 3900	Saint-Maurice
+T89	LOC 3963 3970	planète
+T91	PER 3994 4008	Patrick Alotto
+T94	LOC 4034 4047	Saint-Gervais
+T95	LOC 4087 4093	Epinal
+T96	ORG 4127 4145	EQUIPE D'ANIMATION
+T97	ORG 4134 4145	D'ANIMATION
+T100	ORG 4262 4273	entreprises
+T101	LOC 4293 4301	Besançon
+T102	LOC 4366 4374	montagne
+T103	MISC 4435 4440	Moine

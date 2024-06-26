@@ -1,0 +1,53 @@
+T1	ORG 13 27	lycée Stendhal
+T2	ORG 19 27	Stendhal
+T3	TIME 374 385	aujourd'hui
+T4	ORG 619 654	Chambre de Commerce et d' Industrie
+T5	PROD 681 689	journaux
+T6	TIME 794 805	cette année
+T7	TIME 814 835	l' an deux mille cent
+T8	TIME 918 928	ces années
+T9	ORG 932 937	école
+T10	AMOUNT 947 964	des bonnes années
+T11	AMOUNT 947 964	des bonnes années
+T12	LOC 1226 1234	Mulhouse
+T13	PER 1302 1311	Rodriguez
+T16	AMOUNT 1960 1983	une seconde une seconde
+T17	AMOUNT 1960 1971	une seconde
+T18	AMOUNT 1972 1983	une seconde
+T19	PER 2432 2449	Quentin Tarantino
+T22	LOC 2471 2476	Paris
+T23	PER 2513 2527	Massimo Gargia
+T26	PER 2624 2629	Messi
+T27	TIME 2651 2661	maintenant
+T28	ORG 2738 2754	équipe de France
+T29	ORG 2745 2754	de France
+T30	LOC 2748 2754	France
+T31	TIME 2895 2902	le soir
+T32	TIME 2917 2924	le soir
+T33	LOC 2995 3001	ballon
+T34	ORG 3024 3040	équipe de France
+T35	ORG 3031 3040	de France
+T36	LOC 3034 3040	France
+T38	TIME 3105 3114	au moment
+T39	ORG 3217 3222	Union
+T40	LOC 3225 3230	Reims
+T41	LOC 3252 3259	plateau
+T42	FUNC 3670 3677	lecteur
+T43	TIME 3874 3899	jusqu' au seizième siècle
+T46	LOC 4158 4161	mer
+T48	TIME 4236 4252	année deux mille
+T49	PER 4279 4308	Rodriguez Rodriguez Rodriguez
+T54	PER 4404 4411	Chaplin
+T55	ORG 4447 4452	usine
+T56	PER 4580 4594	Steve Mandanda
+T59	LOC 4612 4618	ballon
+T60	ORG 4675 4691	équipe de France
+T61	ORG 4682 4691	de France
+T62	LOC 4685 4691	France
+T63	TIME 4795 4803	le matin
+T64	FUNC 4840 4848	médecine
+T65	AMOUNT 4849 4870	déjà il y a un moment
+T66	AMOUNT 4861 4870	un moment
+T67	LOC 4959 4964	Paris
+T68	LOC 4995 5000	Paris
+T69	FUNC 5088 5095	joueurs

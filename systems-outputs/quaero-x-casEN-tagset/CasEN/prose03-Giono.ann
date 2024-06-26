@@ -1,0 +1,45 @@
+T1	FUNC 11 18	athlète
+T2	ORG 22 26	Dieu
+T3	AMOUNT 98 111	pendant un an
+T4	AMOUNT 106 111	un an
+T5	ORG 274 281	jardins
+T6	AMOUNT 404 417	cinquante ans
+T7	TIME 476 488	tout le jour
+T8	TIME 517 521	midi
+T9	TIME 639 651	tout le jour
+T10	LOC 687 692	forêt
+T11	FUNC 743 749	berger
+T12	LOC 840 844	bois
+T13	FUNC 871 881	capitaines
+T14	LOC 961 966	terre
+T15	TIME 1003 1022	Au bout d'une heure
+T16	AMOUNT 1287 1304	deux cents mètres
+T17	LOC 1551 1554	mer
+T18	LOC 1563 1569	plages
+T19	AMOUNT 1631 1650	soixante-quinze ans
+T20	LOC 2028 2036	désertes
+T21	TIME 2059 2066	de juin
+T22	LOC 2099 2105	terres
+T23	TIME 2268 2275	En 1933
+T24	LOC 2330 2339	ruisseaux
+T25	TIME 2353 2358	jadis
+T26	TIME 2375 2389	dans des temps
+T29	ORG 2512 2521	assurance
+T30	TIME 2523 2539	À partir de 1920
+T31	AMOUNT 2572 2577	un an
+T32	FUNC 2818 2830	archéologues
+T33	TIME 2900 2919	au vingtième siècle
+T35	TIME 3085 3090	jadis
+T36	AMOUNT 3127 3148	quatre-vingt-sept ans
+T37	TIME 3281 3288	en 1913
+T38	LOC 3294 3300	désert
+T39	TIME 3915 3930	L'année d'après
+T40	AMOUNT 3985 4001	pendant cinq ans
+T41	AMOUNT 3993 4001	cinq ans
+T42	TIME 4152 4164	en juin 1945
+T43	TIME 4166 4173	En 1935
+T44	LOC 4234 4239	forêt
+T45	AMOUNT 4289 4316	en trois et quelques heures
+T46	AMOUNT 4292 4316	trois et quelques heures
+T50	LOC 4457 4463	forêts
+T51	TIME 4682 4687	jadis

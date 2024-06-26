@@ -1,0 +1,83 @@
+T1	ORG 25 34	magasin J
+T2	ORG 33 34	J
+T3	LOC 311 321	États-Unis
+T4	LOC 331 338	planète
+T5	LOC 403 411	Montréal
+T6	ORG 498 508	université
+T7	ORG 543 548	Kaaba
+T8	PER 660 698	musicien Ernesto Antonio Puente Junior
+T9	FUNC 660 668	musicien
+T13	TIME 796 811	En quelle année
+T14	LOC 841 845	îles
+T15	LOC 856 865	Indonésie
+T16	FUNC 878 884	auteur
+T17	PER 889 908	Jonathan Livingston
+T20	ORG 936 960	The Pit and the Pendulum
+T21	TIME 1036 1051	En quelle année
+T22	ORG 1080 1084	État
+T23	PER 1109 1126	Charles Lindbergh
+T26	PER 1236 1246	Tom Cruise
+T29	PER 1268 1280	Jane Goodall
+T32	LOC 1332 1341	Thaïlande
+T33	LOC 1372 1379	Seattle
+T34	PER 1441 1455	John Steinbeck
+T37	PER 1497 1509	Nicolas Cage
+T40	TIME 1512 1527	En quelle année
+T41	LOC 1617 1622	Japon
+T42	PER 1680 1700	lanceur Warren Spahn
+T43	FUNC 1680 1687	lanceur
+T46	AMOUNT 1752 1762	21 saisons
+T47	LOC 1794 1801	rivière
+T48	LOC 1806 1816	États-Unis
+T49	PER 1866 1879	Deng Xiaoping
+T50	FUNC 1894 1915	compositeur américain
+T52	PROD 1938 1953	West Side Story
+T54	ORG 1971 1989	université Prairie
+T55	ORG 1982 1989	Prairie
+T56	LOC 2075 2082	Ukraine
+T57	LOC 2089 2095	Russie
+T58	PER 2137 2142	Vénus
+T59	PER 2161 2179	Martin Luther King
+T63	LOC 2278 2292	aéroport Logan
+T64	TIME 2316 2323	Le jour
+T65	ORG 2330 2338	Bastille
+T66	ORG 2377 2394	The Pines of Rome
+T67	FUNC 2409 2414	reine
+T68	LOC 2418 2426	Hollande
+T69	TIME 2495 2502	en 1990
+T70	PER 2560 2570	Bob Marley
+T73	LOC 2798 2805	Mexique
+T74	PER 2881 2896	Guillermo Ortiz
+T77	ORG 2909 2928	centre de recherche
+T78	FUNC 2931 2943	océanographe
+T79	PER 2944 2955	John Potter
+T82	LOC 3048 3053	Terre
+T83	PER 3201 3220	Mikhail Baryshnikov
+T86	FUNC 3240 3249	inventeur
+T87	LOC 3324 3332	montagne
+T88	TIME 3474 3481	en 1993
+T89	ORG 3491 3509	équipe de la Ligue
+T90	ORG 3498 3509	de la Ligue
+T91	FUNC 3739 3745	auteur
+T92	ORG 3756 3788	The Midnight Ride of Paul Revere
+T93	ORG 3756 3776	The Midnight Ride of
+T94	PER 3777 3788	Paul Revere
+T97	ORG 3814 3834	État de Pennsylvanie
+T98	ORG 3814 3818	État
+T99	PER 3905 3912	Antonio
+T101	LOC 3934 3942	Orénoque
+T102	LOC 3964 3977	îles Pribilof
+T103	LOC 3964 3968	îles
+T104	LOC 4003 4012	Argentine
+T105	PROD 4129 4140	Flintstones
+T107	LOC 4168 4176	Pretoria
+T108	TIME 4396 4411	En quelle année
+T109	PER 4421 4427	Hitler
+T110	ORG 4460 4480	université de Purdue
+T111	ORG 4471 4480	de Purdue
+T112	ORG 4524 4537	parc national
+T113	ORG 4529 4537	national
+T114	PER 4570 4579	roi Louis
+T115	FUNC 4570 4573	roi
+T117	PER 4609 4616	Staline
+T118	TIME 4765 4780	En quelle année

@@ -1,0 +1,41 @@
+T1	PROD 90 99	Alexandre
+T3	PER 283 287	Lisa
+T5	FUNC 354 363	gendarmes
+T6	TIME 591 601	auparavant
+T7	PER 724 742	mademoiselle Saget
+T8	FUNC 724 736	mademoiselle
+T10	TIME 810 823	au 2 décembre
+T11	FUNC 941 949	portière
+T12	AMOUNT 951 967	cinquante francs
+T13	PER 1279 1289	tante Lisa
+T16	ORG 1381 1389	boutique
+T17	PER 1505 1520	Monsieur Gavard
+T18	FUNC 1505 1513	Monsieur
+T20	TIME 1525 1532	tout an
+T21	TIME 1582 1589	Le soir
+T22	TIME 1662 1674	l'après-midi
+T23	LOC 1689 1704	rue Montorgueil
+T25	FUNC 1714 1722	marchand
+T26	ORG 1928 1935	the IRS
+T27	FUNC 2224 2231	lutteur
+T28	ORG 2271 2277	jardin
+T29	PER 2855 2859	Lisa
+T31	ORG 3064 3071	marines
+T32	AMOUNT 3313 3323	un instant
+T33	PER 3427 3441	madame Lecoeur
+T34	FUNC 3427 3433	madame
+T36	TIME 3801 3808	bientôt
+T37	AMOUNT 3837 3852	quelques francs
+T38	AMOUNT 3837 3852	quelques francs
+T39	TIME 3908 3915	le soir
+T40	PER 3922 3938	monsieur Lebigre
+T41	FUNC 3922 3930	monsieur
+T43	TIME 4112 4130	vers quatre heures
+T44	PER 4132 4136	Lisa
+T46	LOC 4149 4163	Saint-Eustache
+T47	TIME 4165 4178	À cette heure
+T48	TIME 4190 4197	la nuit
+T49	TIME 4307 4319	cette soirée
+T50	AMOUNT 4482 4493	des soirées
+T51	AMOUNT 4482 4493	des soirées
+T52	TIME 4615 4627	les journées

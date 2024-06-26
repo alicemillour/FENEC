@@ -1,0 +1,54 @@
+T1	LOC 104 114	Saint-Jean
+T2	LOC 118 127	Maurienne
+T3	TIME 259 281	vingt-et-unième siècle
+T5	TIME 292 301	le siècle
+T6	FUNC 336 343	général
+T7	TIME 363 388	avant vingt heures quinze
+T8	TIME 468 485	vers vingt heures
+T9	AMOUNT 489 511	dix-neuf heures trente
+T10	TIME 539 547	plus tôt
+T11	PER 577 589	Paul Vallier
+T14	PER 612 622	Notre-Dame
+T15	LOC 644 661	rue de Strasbourg
+T17	LOC 651 661	Strasbourg
+T18	LOC 772 789	boulevard Diderot
+T20	PER 782 789	Diderot
+T21	PER 893 904	Gabi Heinze
+T24	TIME 995 1006	à ce moment
+T25	ORG 1235 1243	boutique
+T26	FUNC 1304 1311	médecin
+T27	ORG 1651 1656	école
+T28	TIME 1677 1687	maintenant
+T29	FUNC 1805 1812	général
+T30	TIME 1832 1857	avant vingt heures quinze
+T31	TIME 1937 1954	vers vingt heures
+T32	AMOUNT 1958 1980	dix-neuf heures trente
+T33	TIME 2008 2016	plus tôt
+T34	ORG 2058 2065	jardins
+T35	AMOUNT 2145 2161	à quatre minutes
+T36	AMOUNT 2147 2161	quatre minutes
+T37	AMOUNT 2381 2396	cent kilomètres
+T38	ORG 2617 2623	presse
+T39	PROD 2852 2862	Chroniques
+T40	PER 2918 2923	Kafka
+T41	FUNC 2968 2972	chef
+T42	TIME 2989 3004	pour l' instant
+T43	AMOUNT 3101 3109	un livre
+T44	LOC 3470 3477	Afrique
+T45	LOC 3484 3492	Ethiopie
+T46	LOC 3496 3503	Somalie
+T47	LOC 3519 3525	Arabie
+T48	TIME 3554 3564	maintenant
+T49	AMOUNT 4011 4026	à trois minutes
+T50	AMOUNT 4013 4026	trois minutes
+T51	LOC 4197 4201	Aden
+T52	AMOUNT 4310 4322	cinq minutes
+T53	ORG 4340 4356	équipe de France
+T54	ORG 4347 4356	de France
+T55	LOC 4350 4356	France
+T56	LOC 4602 4609	surface
+T57	ORG 4749 4760	lycée Arago
+T58	ORG 4755 4760	Arago
+T59	PER 4861 4868	Diderot
+T60	FUNC 4949 4958	boulanger
+T61	TIME 5114 5128	tous les jours
