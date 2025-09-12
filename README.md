@@ -20,6 +20,7 @@ FENEC (FrEnch Named-entity Evaluation Corpus) est un corpus à échantillons éq
 13 | spoken01-Rhapsodie | Spoken (Rhapsodie) | XXIe | parole | 70 (1 028) | CC BY-SA 4.0 |v1|
 14 | spoken02-Rhapsodie | Spoken (Rhapsodie) | XXIe | parole | 78 (1 014) | CC BY-SA 4.0 |v1|
 15 | spoken03-Rhapsodie | Spoken (Rhapsodie) | XXIe | parole | 65 (1 019) | CC BY-SA 4.0 |v1|
+Total | x documents | x sources || x genres | x (x) |||
 
 # Citer FENEC
 
