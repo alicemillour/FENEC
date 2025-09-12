@@ -1,0 +1,61 @@
+PERS	67	73	M . D B
+ORG	87	118	tribunal administratif de Nîmes
+LOC	113	118	Nîmes
+PROD	159	185	taxe sur la valeur ajoutée
+TIME	234	273	du 1er janvier 2014 au 31 décembre 2016
+PROD	403	422	jugement n ° 1901113
+TIME	426	438	29 juin 2021
+ORG	443	474	tribunal administratif de Nîmes
+LOC	469	474	Nîmes
+TIME	557	569	27 août 2021
+PERS	571	575	M . B
+PERS	592	603	Me Hérisson
+TIME	656	668	29 juin 2021
+PROD	839	881	L . 761 - 1 du code de justice administrative
+PROD	851	881	code de justice administrative
+PROD	993	1055	articles L . 257 - 0 A et L . 275 du livre des procédures fiscales
+PROD	1026	1055	livre des procédures fiscales
+PROD	1263	1289	taxe sur la valeur ajoutée
+TIME	1545	1557	17 août 1998
+PERS	1584	1588	M . E
+TIME	1613	1628	2 décembre 2008
+PERS	1655	1659	M . A
+PROD	1766	1792	taxe sur la valeur ajoutée
+PROD	1824	1850	taxe sur la valeur ajoutée
+TIME	1904	1920	17 décembre 2021
+PERS	2022	2026	M . B
+PROD	2147	2199	directive 2006 / 112 / CE du Conseil du 28 novembre 2006
+EVENT	2172	2199	Conseil du 28 novembre 2006
+TIME	2183	2199	28 novembre 2006
+PROD	2209	2232	code général des impôts
+PROD	2239	2268	livre des procédures fiscales
+PROD	2278	2308	code de justice administrative
+PERS	2445	2450	Mme C
+PERS	2478	2489	Mme Courbon
+PERS	2600	2604	M . B
+TIME	2659	2692	du 13 septembre au 6 octobre 2017
+TIME	2724	2759	du 1er janvier 2014 au 30 juin 2017
+TIME	2797	2812	24 octobre 2017
+PROD	2877	2903	taxe sur la valeur ajoutée
+TIME	2927	2966	du 1er janvier 2014 au 31 décembre 2016
+PERS	2968	2972	M . B
+TIME	3001	3013	29 juin 2021
+ORG	3017	3048	tribunal administratif de Nîmes
+LOC	3043	3048	Nîmes
+PROD	3243	3283	257 - 0 A du livre des procédures fiscales
+PROD	3254	3283	livre des procédures fiscales
+PROD	3629	3635	L . 277
+PROD	3823	3854	1912 du code général des impôts
+PROD	3831	3854	code général des impôts
+PERS	4017	4021	M . B
+TIME	4212	4227	31 juillet 2018
+TIME	4346	4357	2 août 2018
+TIME	4433	4448	31 juillet 2018
+PROD	4709	4717	L . 275 A
+PROD	4817	4825	L . 256 A
+PROD	5170	5181	loi fiscale
+PROD	5226	5256	256 du code général des impôts
+PROD	5233	5256	code général des impôts
+PROD	5374	5400	taxe sur la valeur ajoutée
+PROD	5457	5460	261
+PROD	5636	5662	taxe sur la valeur ajoutée

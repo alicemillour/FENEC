@@ -1,0 +1,73 @@
+ORG	33	45	J . C . Penney
+PERS	123	143	Dwight D . Eisenhower
+LOC	174	182	Maryland
+LOC	311	321	États-Unis
+LOC	363	369	soleil
+LOC	403	411	Montréal
+PERS	450	464	Woodrow Wilson
+LOC	543	548	Kaaba
+PROD	616	636	Good Morning America
+PERS	669	698	Ernesto Antonio Puente Junior
+PERS	812	818	Mozart
+PROD	889	919	Jonathan Livingston le goëland
+PERS	889	908	Jonathan Livingston
+PROD	936	960	The Pit and the Pendulum
+PERS	1109	1126	Charles Lindbergh
+PERS	1236	1246	Tom Cruise
+PERS	1268	1280	Jane Goodall
+LOC	1332	1341	Thaïlande
+LOC	1372	1379	Seattle
+PERS	1403	1419	Huckleberry Finn
+PROD	1403	1419	Huckleberry Finn
+PERS	1441	1455	John Steinbeck
+PERS	1497	1509	Nicolas Cage
+LOC	1617	1622	Japon
+PERS	1688	1700	Warren Spahn
+LOC	1806	1816	États-Unis
+LOC	1844	1853	Big Muddy
+PERS	1866	1879	Deng Xiaoping
+PROD	1938	1953	West Side Story
+ORG	1982	2000	Prairie View A & M
+LOC	2089	2095	Russie
+PERS	2137	2142	Vénus
+PERS	2161	2179	Martin Luther King
+PROD	2265	2272	Muppets
+LOC	2287	2292	Logan
+TIME	2316	2338	Le jour de la Bastille
+PROD	2377	2394	The Pines of Rome
+LOC	2390	2394	Rome
+LOC	2418	2426	Hollande
+PROD	2481	2494	Strike Eagles
+TIME	2495	2502	en 1990
+PERS	2560	2570	Bob Marley
+ORG	2740	2750	Greenpeace
+LOC	2798	2805	Mexique
+PERS	2881	2896	Guillermo Ortiz
+PERS	2944	2955	John Potter
+LOC	2998	3008	Matterhorn
+LOC	3048	3053	Terre
+PERS	3201	3220	Mikhail Baryshnikov
+PERS	3376	3381	Burns
+PROD	3459	3473	Coupe Breeders
+TIME	3474	3481	en 1993
+EVENT	3504	3529	Ligue Majeure de baseball
+PROD	3601	3623	Oscar du meilleur film
+PROD	3718	3725	Tylenol
+PROD	3756	3788	The Midnight Ride of Paul Revere
+LOC	3822	3834	Pennsylvanie
+LOC	3901	3912	San Antonio
+LOC	3917	3922	Texas
+LOC	3964	3977	îles Pribilof
+PERS	4129	4140	Flintstones
+LOC	4168	4176	Pretoria
+PROD	4228	4253	prix Nobel de littérature
+PROD	4277	4290	Coupe Stanley
+PERS	4421	4427	Hitler
+ORG	4471	4480	de Purdue
+LOC	4474	4480	Purdue
+LOC	4547	4551	Utah
+PERS	4574	4583	Louis XIV
+PERS	4597	4608	Tchétchènes
+PERS	4609	4616	Staline
+LOC	4716	4724	Lynmouth
+LOC	4804	4811	Gateway

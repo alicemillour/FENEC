@@ -1,0 +1,27 @@
+ORG	1541	1551	beaux-arts
+ORG	1580	1590	beaux-arts
+ORG	1604	1622	Centre d'Art Sacré
+PROD	1617	1622	Sacré
+ORG	1685	1695	beaux-arts
+LOC	1712	1717	Paris
+ORG	1755	1773	Centre d'Art Sacré
+PROD	1768	1773	Sacré
+LOC	1776	1781	Paris
+ORG	1788	1805	Centre d'A - d'Art
+ORG	1907	1925	Centre d'Art Sacré
+PROD	1920	1925	Sacré
+PERS	1950	1963	Maurice Denis
+ORG	2075	2085	beaux-arts
+PROD	2134	2139	Sacré
+PROD	2258	2267	art-sacré
+PROD	2308	2313	Sacré
+PERS	2442	2455	Maurice Denis
+TIME	2482	2514	depuis une cinquantaine d'années
+TIME	2555	2565	maintenant
+TIME	3343	3353	maintenant
+ORG	3410	3423	Métiers d'Art
+LOC	3426	3431	Paris
+ORG	3680	3693	Métiers d'Art
+TIME	4806	4820	il y a dix ans
+TIME	4871	4881	maintenant
+LOC	5081	5087	Nevers

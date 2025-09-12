@@ -1,0 +1,35 @@
+PROD	298	324	taxe sur la valeur ajoutée
+PROD	372	395	code général des impôts
+PROD	448	469	directive 2006 / 112 / CE
+PROD	500	526	taxe sur la valeur ajoutée
+ORG	558	595	Cour de justice de l'Union européenne
+ORG	585	595	européenne
+PROD	647	673	taxe sur la valeur ajoutée
+PROD	1252	1278	taxe sur la valeur ajoutée
+TIME	1973	1988	24 octobre 2017
+PROD	2023	2049	taxe sur la valeur ajoutée
+PERS	2160	2164	M . B
+TIME	2340	2360	du lundi au vendredi
+TIME	2352	2360	vendredi
+ORG	2372	2408	centre sportif départemental du Gard
+LOC	2404	2408	Gard
+LOC	2412	2430	Méjannes-le-Clapet
+PERS	3028	3032	M . B
+PROD	3408	3434	taxe sur la valeur ajoutée
+ORG	3672	3679	fiscale
+PERS	3734	3738	M . B
+PROD	3885	3915	261 du code général des impôts
+PROD	3892	3915	code général des impôts
+TIME	4362	4374	trois années
+PERS	4451	4455	M . B
+PERS	4759	4763	M . B
+ORG	4880	4902	Espace Gard Découverte
+LOC	4887	4891	Gard
+PROD	4955	4981	taxe sur la valeur ajoutée
+PROD	5015	5041	taxe sur la valeur ajoutée
+TIME	5216	5223	en 2018
+PROD	5404	5444	L . 80 A du livre des procédures fiscales
+PROD	5415	5444	livre des procédures fiscales
+TIME	5864	5876	17 août 1998
+PERS	5903	5907	M . E
+PROD	6070	6096	taxe sur la valeur ajoutée

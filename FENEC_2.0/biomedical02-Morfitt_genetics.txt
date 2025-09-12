@@ -1,0 +1,32 @@
+ Déterminer la prévalence de la drépanocytose et du trait drépanocytaire chez les nouveau-nés, ainsi que la prévalence de variants d'hémoglobine et de modificateurs génétiques de la drépanocytose dans les neuf régions du nord-ouest de la République-Unie de Tanzanie.
+Nous avons réutilisé des échantillons de gouttes de sang séché provenant d'enfants (âgés de 0 à 24 mois) nés de mères atteintes du virus de l'immunodéficience humaine (VIH), prélevés dans le cadre du programme de diagnostic précoce de l'infection à VIH chez le nourrisson pour détecter une éventuelle drépanocytose.
+Nous avons procédé à une focalisation isoélectrique pour savoir si les échantillons présentaient une hémoglobine normale, un trait drépanocytaire, une drépanocytose ou un variant d'hémoglobine rare.
+Ensuite, nous avons envoyé les échantillons identifiés comme porteurs de la maladie ou d'un variant à l'hôpital pour enfants de Cincinnati, aux États-Unis, afin d'analyser l'acide désoxyribonucléique et de mesurer la prévalence d'une α-thalassémie, d'un déficit en glucose-6-phosphate déshydrogénase (G6PD) ou de modificateurs génétiques de l'hémoglobine fœtale.
+Nous avons étudié 17 200 spécimens au total entre février 2017 et mai 2018.
+Nous avons observé une prévalence de 20,3% (3492/17 200) pour la drépanocytose, et de 1,2% (210/17 200) pour le trait drépanocytaire.
+D'un district à l'autre, la présence du trait variait de 8,6% (5/58) à 28,1% (77/274).
+Nous avons constaté que 42,7% (61/143) des spécimens chez qui une drépanocytose avait été confirmée étaient privés d'un gène, et 14,7% (21/143) de deux gènes du trait α-thalassémique.
+Enfin, nous avons répertorié un déficit en G6PD A – chez 19,2% (14/73) des mâles.
+La prévalence que nous avons calculée est deux fois supérieure aux chiffres mentionnés précédemment, et souligne la nécessité d'instaurer de meilleurs services de diagnostic de la drépanocytose.
+Nos données réparties par district fourniront des informations en matière de politique de santé publique, afin que le dépistage et le traitement modificateur de la maladie, à base d'hydroxyurée, se concentrent sur les zones de forte prévalence jusqu'à ce qu'un dépistage universel des nouveau-nés soit disponible.
+ La paramécie, un organisme modèle pour étudier la ciliogenèse et les maladies ciliaires.
+Le cil est une extension présente à la surface de la quasi-totalité des cellules eucaryotes.
+Conservé au cours de l’évolution, il assure des fonctions sensorielles et/ou motiles.
+Chez l’homme, le dysfonctionnement ciliaire est à l’origine de différentes maladies regroupées sous le nom de ciliopathies.
+Grâce à sa ciliature complexe, la paramécie constitue un modèle de choix pour étudier non seulement la structure, l’assemblage et les fonctions des cils, mais aussi pour valider les mutations de gènes associées à ces ciliopathies.
+ Prévalence et nouveaux génotypes d’Enterocytozoon bieneusi chez les chiens et chats de refuges dans la province du Sichuan, dans le sud-ouest de la Chine.
+Enterocytozoon bieneusi est un parasite intracellulaire commun qui infecte un large éventail d’hôtes, y compris les humains et les animaux de compagnie, ce qui soulève des problèmes de transmission zoonotique.
+Cependant, il existe peu d’informations épidémiologiques sur la prévalence et les génotypes d’E. bieneusi chez les chiens et les chats des refuges dans la province du Sichuan, au sud-ouest de la Chine.
+Au total, 880 échantillons de matières fécales ont été prélevés dans des refuges dans différentes villes de la province du Sichuan, dont 724 échantillons de chiens et 156 échantillons de chats.
+Enterocytozoon bieneusi a été déterminé par analyse de séquence de l’espaceur transcrit interne ribosomique (ITS).
+Dans l’ensemble, la prévalence d’E. bieneusi était de 18 % (158/880) et le parasite a été détecté chez 18,8 % (136/724) et 14,1 % (22/156) des chiens et des chats examinés, respectivement.
+L’analyse des séquences a révélé la présence de cinq génotypes chez le chien, dont trois génotypes connus CD9 (n = 92), PtEb IX (n = 41) et type IV (n = 1), et deux nouveaux génotypes SCD-1 (n = 1) et SCD-2 (n = 1).
+De même, quatre génotypes ont été identifiés chez les chats, dont CD9 (n = 11), Type IV (n = 6), D (n = 4) et PtEb IX (n = 1).
+Les génotypes D et de type IV ont été précédemment identifiés chez l’homme et sont rapportés chez des chiens et des chats des refuges dans la présente étude, ce qui indique que ces animaux pourraient être des sources potentielles d’infections par microsporidiose chez les humains.
+ La surexpression de métalloprotéases de matrice (MPMs) a été associée avec une augmentation de l’agressivité des tumeurs et de la dissémination métastasique.
+Nous avons cherché à savoir si le comportement métastasique contrastant d’ostéosarcomes félin et canin est relié aux quantités et à l’activité de MPM2 et MPM9.
+La zymographie et l’immunohistochimie ont été utilisées afin de déterminer les niveaux d’expression de MPM2 et de MPM9 dans des ostéosarcomes canins et félins.
+En utilisant l’immunohistochimie, des quantités augmentées de MPM9 ont été identifiées dans la plupart des ostéosarcomes canins, alors que les échantillons félins montraient plus souvent des quantités modérées.
+Des niveaux élevés de pro-MPM9, pro-MPM2, et de la MPM2 active ont été détectés par zymographie sur gélatine chez les deux espèces, avec des valeurs significativement plus élevées pour de la MPM2 active dans les ostéosarcomes canins.
+Ces données indiquent que MPM2 est probablement impliquée dans les ostéosarcomes canins et félins et que leur expression et activité pourraient être associé avec le comportement métastasique différent des ostéosarcomes canins et félins.(Traduit par Docteur Serge Messier).
+ Le poumon est un organe complexe, et sa physiologie et son immunologie sont régulées par diverses molécules et cellules immunitaires.

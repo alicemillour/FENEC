@@ -1,0 +1,41 @@
+LOC	103	126	Saint-Jean-de-Maurienne
+PROD	168	177	Le Figaro
+TIME	254	279	le vingt-et-unième siècle
+TIME	356	385	pas avant vingt heures quinze
+TIME	464	481	vers vingt heures
+TIME	485	507	dix-neuf heures trente
+LOC	565	583	place Paul Vallier
+PERS	571	583	Paul Vallier
+LOC	600	616	place Notre-Dame
+LOC	637	654	rue de Strasbourg
+LOC	644	654	Strasbourg
+LOC	743	780	le boulevard euh le boulevard Diderot
+PERS	773	780	Diderot
+PERS	884	895	Gabi Heinze
+LOC	1340	1347	Olkaloo
+EVENT	1499	1513	présidentielle
+TIME	1660	1670	maintenant
+TIME	1811	1840	pas avant vingt heures quinze
+TIME	1919	1936	vers vingt heures
+TIME	1940	1962	dix-neuf heures trente
+LOC	2038	2054	jardins de ville
+PROD	2821	2853	Chroniques de l'oiseau à ressort
+PROD	2854	2881	La course du mouton sauvage
+PROD	2886	2905	Kafka sur le rivage
+PERS	2886	2891	Kafka
+PROD	3000	3022	Au sud de la frontière
+LOC	3412	3433	la corne de l'Afrique
+LOC	3451	3458	Somalie
+TIME	3506	3516	maintenant
+LOC	3995	4013	Cavalaire Pardigon
+PERS	4076	4085	les Besse
+LOC	4145	4149	Aden
+TIME	4246	4269	depuis oui cinq minutes
+ORG	4293	4302	de France
+LOC	4296	4302	France
+LOC	4688	4699	lycée Arago
+PERS	4694	4699	Arago
+LOC	4790	4807	Reuilly - Diderot
+LOC	4790	4797	Reuilly
+PERS	4800	4807	Diderot
+TIME	5048	5062	tous les jours

@@ -1,0 +1,20 @@
+ORG	275	325	force mécanique , terrestre et aérienne de l'ennemi
+PERS	407	416	Allemands
+PERS	487	496	Allemands
+TIME	564	575	aujourd ’ hui
+LOC	782	788	France
+LOC	876	882	France
+LOC	963	969	Empire
+LOC	1020	1031	britannique
+LOC	1148	1158	Etats-Unis
+LOC	1282	1288	France
+TIME	1491	1502	aujourd'hui
+PERS	1632	1649	général de Gaulle
+LOC	1666	1673	Londres
+PERS	1684	1721	les officiers et les soldats français
+LOC	1741	1763	territoire britannique
+PERS	1845	1913	les ingénieurs et les ouvriers spécialisés des industries d'armement
+LOC	1933	1955	territoire britannique
+TIME	2124	2130	Demain
+LOC	2138	2149	aujourd'hui
+LOC	2177	2184	Londres

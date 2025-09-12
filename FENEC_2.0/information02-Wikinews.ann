@@ -1,0 +1,80 @@
+ORG	0	5	Valve
+TIME	34	56	après plusieurs années
+TIME	71	82	9 mars 2018
+ORG	88	91	M5S
+TIME	394	412	le 2 novembre 2017
+LOC	434	442	Belgique
+TIME	461	474	le 5 décembre
+TIME	603	610	En 1952
+LOC	756	767	Royaume-Uni
+ORG	844	852	Facebook
+ORG	855	861	Google
+PROD	912	919	AdWords
+PERS	961	1004	forces de défense et de sécurité burkinabés
+ORG	1064	1069	Valve
+LOC	1174	1181	Algérie
+LOC	1184	1190	Égypte
+LOC	1193	1201	Cameroun
+LOC	1204	1211	Nigéria
+LOC	1222	1243	Glacier Perito Moreno
+PERS	1237	1243	Moreno
+ORG	1254	1284	Patrimoine mondial de l'UNESCO
+ORG	1396	1401	Daesh
+PROD	1432	1442	Tiangong - 1
+PROD	1591	1600	Curiosity
+ORG	1699	1703	NASA
+PROD	1729	1757	télescope spatial James Webb
+PERS	1747	1757	James Webb
+TIME	1760	1774	Sept ans après
+EVENT	1778	1822	tsunami et l'Accident nucléaire de Fukushima
+LOC	1813	1822	Fukushima
+LOC	1828	1833	Japon
+PROD	2082	2088	Hubble
+LOC	2161	2168	Saturne
+TIME	2170	2182	10 mars 2018
+PROD	2185	2189	SoHO
+LOC	2449	2460	Carcassonne
+ORG	2615	2629	groupe Bolloré
+PERS	2622	2629	Bolloré
+ORG	2631	2637	Canal +
+LOC	2739	2749	États-Unis
+LOC	2769	2779	Californie
+TIME	2809	2821	10 mars 2018
+EVENT	2824	2842	Jeux Paralympiques
+PERS	2848	2854	Suisse
+TIME	2870	2882	10 mars 2018
+PROD	2897	2933	station spatiale chinoise Tiangong - 1
+PROD	2923	2933	Tiangong - 1
+LOC	2948	2953	Terre
+TIME	2985	2996	4 mars 2018
+PROD	3013	3049	station spatiale chinoise Tiangong - 1
+PROD	3039	3049	Tiangong - 1
+LOC	3069	3078	Pacifique
+TIME	3082	3094	14 mars 2018
+EVENT	3352	3400	Championnats du monde junior de short-track 2018
+TIME	3416	3422	3 mars
+TIME	3424	3435	3 mars 2018
+LOC	3502	3513	Royaume-Uni
+PROD	3525	3547	prix Nobel de médecine
+PERS	3548	3560	John Sulston
+TIME	3562	3574	10 mars 2018
+LOC	3606	3612	Suisse
+TIME	3613	3628	le 20 mars 2018
+TIME	3879	3902	Le vendredi 2 mars 2018
+LOC	3987	3998	Ouagadougou
+LOC	4016	4028	Burkina-Faso
+PROD	4296	4309	Sesame Street
+PERS	4376	4389	Donald Hadley
+TIME	4392	4399	En 1998
+ORG	4414	4448	LVMH - Moët Hennessy Louis Vuitton
+PERS	4421	4448	Moët Hennessy Louis Vuitton
+LOC	4649	4655	France
+ORG	4661	4675	Front National
+TIME	4715	4727	11 mars 2018
+LOC	4759	4764	Terre
+LOC	4784	4788	Mars
+PROD	4956	4984	télescope spatial James Webb
+PERS	4974	4984	James Webb
+EVENT	5230	5245	Jeux olympiques
+LOC	5247	5254	Espagne
+TIME	5297	5308	8 mars 2018

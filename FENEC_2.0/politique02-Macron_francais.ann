@@ -1,0 +1,61 @@
+EVENT	234	251	guerre en Ukraine
+LOC	244	251	Ukraine
+TIME	257	267	maintenant
+TIME	268	292	depuis plus de trois ans
+TIME	309	324	le premier jour
+LOC	346	353	Ukraine
+LOC	375	381	Russie
+PERS	430	449	le peuple ukrainien
+LOC	598	604	Europe
+ORG	802	809	Ukraine
+LOC	855	861	Europe
+ORG	879	885	Russie
+PERS	979	999	soldats nord-coréens
+LOC	1077	1083	Russie
+PERS	1087	1104	Président Poutine
+LOC	1183	1191	Roumanie
+LOC	1198	1206	Moldavie
+ORG	1305	1311	Russie
+ORG	1574	1580	Russie
+TIME	1673	1683	D ’ ici 2030
+LOC	1861	1867	Russie
+LOC	1897	1904	Ukraine
+LOC	1910	1916	Russie
+LOC	2005	2011	France
+LOC	2022	2028	Europe
+LOC	2146	2152	Russie
+LOC	2386	2393	Ukraine
+PERS	2416	2424	Français
+PERS	2447	2456	Européens
+LOC	2465	2472	Ukraine
+PERS	2614	2624	Ukrainiens
+LOC	2680	2686	Russie
+LOC	2824	2831	Ukraine
+LOC	2974	2981	Ukraine
+LOC	3206	3212	Russie
+LOC	3236	3243	Ukraine
+TIME	3244	3251	en 2014
+LOC	3302	3307	Minsk
+LOC	3320	3326	Russie
+LOC	3483	3489	Russie
+LOC	3504	3511	Ukraine
+LOC	3614	3632	continent européen
+LOC	3834	3839	Paris
+LOC	3885	3892	Londres
+LOC	3942	3949	Ukraine
+LOC	3987	3994	Ukraine
+LOC	4032	4038	Russie
+ORG	4109	4126	armée ukrainienne
+TIME	4247	4258	aujourd ’ hui
+LOC	4447	4452	Paris
+PERS	4634	4648	les Ukrainiens
+LOC	4713	4723	Etats-Unis
+LOC	4755	4761	Europe
+LOC	4789	4799	Etats-Unis
+LOC	4895	4902	Ukraine
+LOC	4939	4954	Etats européens
+ORG	5280	5284	OTAN
+LOC	5317	5338	Etats Unis d ’ Amérique
+LOC	5452	5458	Europe
+LOC	5484	5494	Washington
+LOC	5500	5506	Moscou

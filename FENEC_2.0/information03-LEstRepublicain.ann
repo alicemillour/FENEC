@@ -1,0 +1,85 @@
+ORG	120	140	Les Lutins du Villon
+ORG	142	148	CAF 70
+LOC	150	171	cours François-Villon
+PERS	156	171	François-Villon
+LOC	178	192	03.84.97.17.45
+TIME	194	213	de 7 h 30 à 12 h 15
+TIME	217	234	de 13 h 30 à 18 h
+LOC	395	404	Grand Est
+LOC	413	421	Bas-Rhin
+LOC	426	435	Haut-Rhin
+LOC	440	458	Meurthe et Moselle
+LOC	463	470	Moselle
+LOC	475	480	Doubs
+LOC	486	492	Vosges
+LOC	499	516	région parisienne
+PERS	560	567	Thierry
+PERS	605	622	conseil municipal
+PERS	1017	1027	Guy Flégny
+ORG	1042	1064	l'amicale de la police
+PERS	1162	1181	Gilbert Franchequin
+LOC	1426	1444	Nord-Pas de Calais
+LOC	1473	1480	Roubaix
+ORG	1508	1547	conseil général en charge de la culture
+LOC	1587	1598	Neufchâteau
+ORG	1660	1695	Maison des parents de Franche-Comté
+LOC	1682	1695	Franche-Comté
+LOC	1707	1715	Besançon
+TIME	1716	1732	en décembre 2001
+ORG	1756	1800	Fondation des Hôpitaux de Paris et de France
+LOC	1782	1787	Paris
+LOC	1794	1800	France
+PROD	1841	1862	Ah ! si j'étais riche
+PERS	2060	2078	Julien Groslambert
+LOC	2082	2096	06.88.69.19.81
+LOC	2103	2117	03.81.86.05.51
+PROD	2268	2285	L'EST RÉPUBLICAIN
+LOC	2298	2320	18 , faubourg de France
+LOC	2302	2320	faubourg de France
+LOC	2314	2320	France
+TIME	2322	2335	de 9 h à 12 h
+TIME	2338	2349	14 h à 20 h
+LOC	2356	2370	03.29.88.38.20
+LOC	2417	2443	BP 241 , 55106 Verdun cedex
+LOC	2431	2437	Verdun
+PERS	2479	2497	Albert de Belgique
+LOC	2489	2497	Belgique
+ORG	2612	2630	Office du Tourisme
+LOC	2633	2650	parvis cathédrale
+TIME	2651	2658	10 - 12 h
+TIME	2662	2668	14 - 17h
+PROD	2763	2780	L'EST REPUBLICAIN
+PERS	2781	2798	Jacques Vuillemez
+LOC	2800	2833	3 , chemin du Stand , 25500 Morteau
+LOC	2803	2818	chemin du Stand
+LOC	2826	2833	Morteau
+PERS	2868	2873	Aysel
+PERS	2877	2882	Dogan
+LOC	2906	2917	Bethoncourt
+EVENT	2984	2994	Résistance
+PERS	3181	3197	Bertrand Ternard
+ORG	3225	3242	Ligue de Lorraine
+LOC	3234	3242	Lorraine
+ORG	3266	3288	du Château de Commercy
+LOC	3269	3288	Château de Commercy
+LOC	3280	3288	Commercy
+TIME	3324	3337	de 9 h à 11 h
+TIME	3341	3358	de 14 h à 16 h 30
+ORG	3539	3579	club de foot , tennis et basket d'Amancey
+TIME	3667	3674	16 h 40
+PERS	3706	3719	Mme Brindille
+LOC	3887	3900	Saint-Maurice
+TIME	3902	3910	dimanche
+PROD	3960	3980	La planète au trésor
+TIME	3985	3992	14 h 30
+PERS	3994	4008	Patrick Alotto
+LOC	4034	4047	Saint-Gervais
+ORG	4034	4047	Saint-Gervais
+PERS	4127	4157	EQUIPE D'ANIMATION PAROISSIALE
+TIME	4184	4199	jeudi 9 janvier
+TIME	4200	4209	à 20 h 30
+LOC	4215	4233	crypte de l'église
+LOC	4293	4301	Besançon
+PERS	4335	4350	pères Chartreux
+PERS	4431	4440	les Moine
+TIME	4480	4504	au fil du siècle dernier

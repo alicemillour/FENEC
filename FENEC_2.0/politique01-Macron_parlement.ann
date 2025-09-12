@@ -1,0 +1,22 @@
+PROD	7	17	article 18
+PROD	22	34	Constitution
+PERS	45	71	Président de la République
+ORG	61	71	République
+ORG	103	112	parlement
+ORG	134	141	Congrès
+TIME	252	268	Le 7 mai dernier
+PERS	274	282	Français
+TIME	313	323	le 18 juin
+ORG	368	387	Assemblée nationale
+TIME	430	441	aujourd ’ hui
+TIME	638	649	aujourd ’ hui
+ORG	1060	1072	gouvernement
+LOC	1273	1299	collines de Haute-Provence
+LOC	1285	1299	Haute-Provence
+LOC	1307	1315	Ardennes
+ORG	2818	2837	Assemblée nationale
+PERS	3139	3147	Français
+LOC	4365	4371	France
+LOC	4894	4900	France
+LOC	4970	4979	Bruxelles
+LOC	5239	5245	France

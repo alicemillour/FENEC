@@ -1,0 +1,95 @@
+ORG	5	10	Paris
+ORG	29	34	Brest
+TIME	35	51	l'année dernière
+TIME	124	134	a la 86ème
+PROD	145	153	Dépakine
+ORG	179	185	Sanofi
+ORG	323	328	charo
+EVENT	438	457	Ligue des Champions
+ORG	462	470	Mediapro
+ORG	474	483	RMC Sport
+LOC	588	605	métropole de Lyon
+LOC	601	605	Lyon
+TIME	904	913	1940 - 1959
+PROD	916	934	Singin in the rain
+TIME	936	945	1960 - 1979
+PROD	948	958	Le Parrain
+TIME	959	968	1980 - 1999
+PROD	971	1000	Il Était une fois en Amérique
+TIME	1002	1011	2000 - 2020
+PROD	1014	1024	La La Land
+PERS	1155	1161	Macron
+true	1155	1161	Macron
+PERS	1219	1225	Macron
+true	1219	1225	Macron
+ORG	1247	1257	République
+PERS	1311	1317	kaaris
+PERS	1323	1327	Bosh
+PERS	1348	1352	Jean
+ORG	1380	1415	Convention citoyenne pour le Climat
+PERS	1455	1461	Setien
+PERS	1527	1540	Laurent Blanc
+TIME	1700	1707	Ce soir
+TIME	1783	1785	3h
+TIME	1806	1834	dès ce soir jusqu'à dimanche
+EVENT	1855	1866	NBAPlayoffs
+true	1855	1866	NBAPlayoffs
+TIME	1894	1904	cette nuit
+EVENT	1913	1927	duel WestCoast
+LOC	1918	1927	WestCoast
+TIME	1947	1974	Le départ du Tour de France
+EVENT	1960	1974	Tour de France
+LOC	1968	1974	France
+LOC	1977	1987	Copenhague
+TIME	1998	2002	2022
+ORG	2080	2085	licra
+PERS	2341	2347	Plenel
+PROD	2382	2390	J'accuse
+ORG	2504	2511	Sochaux
+ORG	2550	2555	Paris
+ORG	2600	2606	Sainté
+PROD	2739	2756	la vie des autres
+PERS	2849	2857	hamilton
+PERS	3044	3046	WR
+TIME	3103	3118	année prochaine
+ORG	3238	3248	AliExpress
+PROD	3340	3351	ballon d'or
+ORG	3418	3422	lrds
+EVENT	3542	3557	RentreeScolaire
+PROD	3666	3680	lepetitnicolas
+true	3666	3680	lepetitnicolas
+ORG	3690	3699	Liverpool
+ORG	3750	3757	Chelsea
+EVENT	3808	3831	convention républicaine
+PERS	3907	3920	Laurent blanc
+PERS	3941	3946	Kanté
+TIME	3964	3975	cette année
+PROD	3977	3991	FreebetBetclic
+true	3977	3991	FreebetBetclic
+ORG	4095	4100	Brest
+PROD	4221	4235	la vie en rose
+PROD	4334	4349	skyrockdedicace
+true	4334	4349	skyrockdedicace
+ORG	4360	4370	lyonnaises
+ORG	4402	4405	PSG
+EVENT	4432	4461	ligue des champions féminines
+PERS	4466	4479	Wendie Renard
+ORG	4539	4549	lyonnaises
+EVENT	4551	4556	WOBOL
+true	4551	4556	WOBOL
+PROD	4599	4602	FUT
+PROD	4623	4630	FIFA 21
+ORG	4623	4627	FIFA
+PROD	4642	4649	FIFA 20
+ORG	4642	4646	FIFA
+PROD	4730	4736	fut 21
+PERS	5004	5009	Puyol
+PERS	5011	5015	Busi
+PERS	5017	5021	Etoo
+PERS	5023	5028	Henry
+PERS	5030	5036	Suarez
+PERS	5038	5044	Neymar
+ORG	5051	5056	Brest
+ORG	5059	5061	OM
+TIME	5153	5164	dans 20 ans
+TIME	5216	5226	ce jour là
