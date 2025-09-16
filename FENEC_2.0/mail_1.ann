@@ -1,6 +1,6 @@
-PERS	0	3	Ito
-TIME	108	116	vendredi
-PERS	170	173	Ito
-TIME	335	343	vendredi
-PERS	781	784	Ito
-PERS	848	857	Jean-Paul
+Ito	PERS	1
+vendredi	TIME	1
+Ito	PERS	1
+vendredi	TIME	1
+Ito	PERS	1
+Jean-Paul	PERS	1

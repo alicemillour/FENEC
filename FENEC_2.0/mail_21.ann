@@ -1,7 +1,7 @@
-PERS	8	16	Virginie
-PERS	125	140	Willem Coquerel
-ORG	179	183	ISCV
-ORG	240	248	U Amiens
-LOC	242	248	Amiens
-PERS	285	292	Herbert
-ORG	305	309	LIUA
+Virginie	PERS	1
+Willem Coquerel	PERS	2
+ISCV	ORG	1
+U Amiens	ORG	2
+Amiens	LOC	1
+Herbert	PERS	1
+LIUA	ORG	1
