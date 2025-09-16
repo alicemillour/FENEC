@@ -1,15 +1,16 @@
-TIME	550	559	printemps
-PROD	2313	2333	contes des lits-clos
-LOC	2364	2377	côte bretonne
-LOC	2548	2554	France
-LOC	2671	2679	Bretagne
-LOC	2744	2754	Port-Blanc
-LOC	3049	3055	Québec
-LOC	3154	3166	Côte Beaupré
-PERS	3167	3178	Sainte Anne
-LOC	3242	3257	pays de St-Yves
-PERS	3250	3257	St-Yves
-LOC	3285	3299	Ti-Chansonniou
-PERS	3805	3809	Dieu
-LOC	4376	4380	Eden
-PERS	4651	4655	Dieu
+TIME	500	505	hiver	1
+TIME	550	559	printemps	1
+PROD	2313	2333	contes des lits-clos	3
+LOC	2364	2377	côte bretonne	2
+LOC	2548	2554	France	1
+LOC	2671	2679	Bretagne	1
+LOC	2744	2754	Port-Blanc	1
+LOC	3049	3055	Québec	1
+LOC	3154	3166	Côte Beaupré	2
+PERS	3167	3178	Sainte Anne	2
+LOC	3242	3257	pays de St-Yves	3
+PERS	3250	3257	St-Yves	1
+LOC	3285	3299	Ti-Chansonniou	1
+PERS	3805	3809	Dieu	1
+LOC	4376	4380	Eden	1
+PERS	4651	4655	Dieu	1

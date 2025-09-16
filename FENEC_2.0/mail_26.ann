@@ -1,12 +1,12 @@
-Sophie	PERS	1
-Suisse	LOC	1
-Rodéric	PERS	1
-demain	TIME	1
-Rodéric	PERS	1
-Viviane	PERS	1
-à 9 : 45	TIME	4
-LIG	ORG	1
-LIG	LOC	1
-de 10 : 00 à 10 : 30	TIME	8
-Valéry	PERS	1
-Pierre-Henri	PERS	1
+PERS	8	14	Sophie	1
+LOC	187	193	Suisse	1
+PERS	239	246	Rodéric	1
+TIME	287	293	demain	1
+PERS	330	337	Rodéric	1
+PERS	368	375	Viviane	1
+TIME	376	382	à 9 : 45	4
+ORG	395	398	LIG	1
+LOC	395	398	LIG	1
+TIME	432	448	de 10 : 00 à 10 : 30	8
+PERS	529	535	Valéry	1
+PERS	612	624	Pierre-Henri	1

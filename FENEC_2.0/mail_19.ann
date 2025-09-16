@@ -1,7 +1,7 @@
-TER	PROD	1
-Pays de la Loire	LOC	4
-Loire	LOC	1
-FNAUT	ORG	1
-TER	PROD	1
-Ville Rail et Transport	PROD	4
-Jo	PERS	1
+PROD	90	93	TER	1
+LOC	107	123	Pays de la Loire	4
+LOC	118	123	Loire	1
+ORG	128	133	FNAUT	1
+PROD	203	206	TER	1
+PROD	354	377	Ville Rail et Transport	4
+PERS	427	429	Jo	1

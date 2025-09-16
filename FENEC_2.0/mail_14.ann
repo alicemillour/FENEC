@@ -1,9 +1,9 @@
-Yasmine	PERS	1
-Agnès	PERS	1
-le 28 mars de 9 à 10	TIME	7
-Berck	PERS	1
-le 31 / 03 matin	TIME	5
-le 2 journée	TIME	3
-le 4 / 04 de 9 à 10	TIME	8
-Berck	PERS	1
-J .	PERS	2
+PERS	7	14	Yasmine	1
+PERS	32	37	Agnès	1
+TIME	92	112	le 28 mars de 9 à 10	7
+PERS	155	160	Berck	1
+TIME	177	191	le 31 / 03 matin	5
+TIME	193	205	le 2 journée	3
+TIME	207	224	le 4 / 04 de 9 à 10	8
+PERS	281	286	Berck	1
+PERS	293	295	J .	2

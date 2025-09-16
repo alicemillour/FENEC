@@ -1,9 +1,9 @@
-Souad	PERS	1
-France	LOC	1
-Saint-Nazaire	LOC	1
-université de Nantes	ORG	3
-Nantes	LOC	1
-Cergy	LOC	1
-l'année prochaine	TIME	2
-Saint-Nazaire	LOC	1
-Pierre-Yves Renaud	PERS	2
+PERS	4	9	Souad	1
+LOC	291	297	France	1
+LOC	424	437	Saint-Nazaire	1
+ORG	443	463	université de Nantes	3
+LOC	457	463	Nantes	1
+LOC	475	480	Cergy	1
+TIME	662	679	l'année prochaine	2
+LOC	723	736	Saint-Nazaire	1
+PERS	782	800	Pierre-Yves Renaud	2

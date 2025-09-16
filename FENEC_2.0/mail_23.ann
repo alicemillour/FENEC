@@ -1,11 +1,11 @@
-Silvio	PERS	1
-Béné	PERS	1
-Paolo	PERS	1
-SCAC	ORG	1
-depuis lundi dernier	TIME	3
-ParcourSup	ORG	1
-Campus France	ORG	2
-France	LOC	1
-SCAC	ORG	1
-place de la République	LOC	4
-JY	PERS	1
+PERS	6	12	Silvio	1
+PERS	31	35	Béné	1
+PERS	39	44	Paolo	1
+ORG	86	90	SCAC	1
+TIME	104	124	depuis lundi dernier	3
+ORG	153	163	ParcourSup	1
+ORG	197	210	Campus France	2
+LOC	204	210	France	1
+ORG	275	279	SCAC	1
+LOC	390	412	place de la République	4
+PERS	417	419	JY	1

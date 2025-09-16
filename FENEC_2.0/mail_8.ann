@@ -1,4 +1,4 @@
-Béné	PERS	1
-semestre 2	TIME	2
-en L2S1	TIME	2
-JP	PERS	1
+PERS	8	12	Béné	1
+TIME	354	364	semestre 2	2
+TIME	544	551	en L2S1	2
+PERS	691	693	JP	1

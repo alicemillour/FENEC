@@ -1,35 +1,36 @@
-PROD	298	324	taxe sur la valeur ajoutée
-PROD	372	395	code général des impôts
-PROD	448	469	directive 2006 / 112 / CE
-PROD	500	526	taxe sur la valeur ajoutée
-ORG	558	595	Cour de justice de l'Union européenne
-ORG	585	595	européenne
-PROD	647	673	taxe sur la valeur ajoutée
-PROD	1252	1278	taxe sur la valeur ajoutée
-TIME	1973	1988	24 octobre 2017
-PROD	2023	2049	taxe sur la valeur ajoutée
-PERS	2160	2164	M . B
-TIME	2340	2360	du lundi au vendredi
-TIME	2352	2360	vendredi
-ORG	2372	2408	centre sportif départemental du Gard
-LOC	2404	2408	Gard
-LOC	2412	2430	Méjannes-le-Clapet
-PERS	3028	3032	M . B
-PROD	3408	3434	taxe sur la valeur ajoutée
-ORG	3672	3679	fiscale
-PERS	3734	3738	M . B
-PROD	3885	3915	261 du code général des impôts
-PROD	3892	3915	code général des impôts
-TIME	4362	4374	trois années
-PERS	4451	4455	M . B
-PERS	4759	4763	M . B
-ORG	4880	4902	Espace Gard Découverte
-LOC	4887	4891	Gard
-PROD	4955	4981	taxe sur la valeur ajoutée
-PROD	5015	5041	taxe sur la valeur ajoutée
-TIME	5216	5223	en 2018
-PROD	5404	5444	L . 80 A du livre des procédures fiscales
-PROD	5415	5444	livre des procédures fiscales
-TIME	5864	5876	17 août 1998
-PERS	5903	5907	M . E
-PROD	6070	6096	taxe sur la valeur ajoutée
+PROD	298	324	taxe sur la valeur ajoutée	5
+PROD	372	395	code général des impôts	4
+PROD	448	469	directive 2006 / 112 / CE	6
+PROD	500	526	taxe sur la valeur ajoutée	5
+ORG	558	595	Cour de justice de l'Union européenne	6
+ORG	579	595	Union européenne	2
+PROD	647	673	taxe sur la valeur ajoutée	5
+PROD	1252	1278	taxe sur la valeur ajoutée	5
+TIME	1973	1988	24 octobre 2017	3
+PROD	2023	2049	taxe sur la valeur ajoutée	5
+PERS	2160	2164	M . B	3
+TIME	2296	2299	été	1
+TIME	2340	2360	du lundi au vendredi	4
+TIME	2352	2360	vendredi	1
+ORG	2372	2408	centre sportif départemental du Gard	5
+LOC	2404	2408	Gard	1
+LOC	2412	2430	Méjannes-le-Clapet	1
+PERS	3028	3032	M . B	3
+PROD	3408	3434	taxe sur la valeur ajoutée	5
+ORG	3657	3679	administration fiscale	2
+PERS	3734	3738	M . B	3
+PROD	3877	3915	article 261 du code général des impôts	7
+PROD	3892	3915	code général des impôts	4
+TIME	4362	4374	trois années	2
+PERS	4451	4455	M . B	3
+PERS	4759	4763	M . B	3
+ORG	4880	4902	Espace Gard Découverte	3
+LOC	4887	4891	Gard	1
+PROD	4955	4981	taxe sur la valeur ajoutée	5
+PROD	5015	5041	taxe sur la valeur ajoutée	5
+TIME	5216	5223	en 2018	2
+PROD	5396	5444	article L . 80 A du livre des procédures fiscales	10
+PROD	5415	5444	livre des procédures fiscales	4
+TIME	5864	5876	17 août 1998	3
+PERS	5903	5907	M . E	3
+PROD	6070	6096	taxe sur la valeur ajoutée	5

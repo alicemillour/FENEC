@@ -1,22 +1,22 @@
-Alicia	PERS	1
-alpha de Krippendorff	PROD	3
-Krippendorff	PERS	1
-Kappa de Cohen	PROD	3
-Cohen	PERS	1
-Alpha de Krippendorff	PROD	3
-Krippendorff	PERS	1
-Mark Davies	PERS	2
-Joseph Fleiss	PERS	2
-1982	TIME	1
-Measuring agreement for multinomial data	PROD	5
-Biometrics	PROD	1
-Kappa	PROD	1
-alpha de Krippendorff	PROD	3
-Krippendorff	PERS	1
-Klaus Krippendorff	PERS	2
-2004	TIME	1
-Content Analysis : an Introduction to its Methodology	PROD	8
-Sage	ORG	1
-Thousand Oaks	LOC	2
-CA	LOC	1
-Anne-Sophie	PERS	1
+PERS	8	14	Alicia	1
+PROD	717	738	alpha de Krippendorff	3
+PERS	726	738	Krippendorff	1
+PROD	884	898	Kappa de Cohen	3
+PERS	893	898	Cohen	1
+PROD	905	926	Alpha de Krippendorff	3
+PERS	914	926	Krippendorff	1
+PERS	1394	1405	Mark Davies	2
+PERS	1410	1423	Joseph Fleiss	2
+TIME	1425	1429	1982	1
+PROD	1431	1471	Measuring agreement for multinomial data	5
+PROD	1473	1483	Biometrics	1
+PROD	1509	1514	Kappa	1
+PROD	1547	1568	alpha de Krippendorff	3
+PERS	1556	1568	Krippendorff	1
+PERS	1621	1639	Klaus Krippendorff	2
+TIME	1641	1645	2004	1
+PROD	1647	1699	Content Analysis : an Introduction to its Methodology	8
+ORG	1713	1717	Sage	1
+LOC	1719	1732	Thousand Oaks	2
+LOC	1734	1736	CA	1
+PERS	1943	1954	Anne-Sophie	1

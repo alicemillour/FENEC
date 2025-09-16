@@ -1,60 +1,64 @@
-LOC	69	77	La Capte
-LOC	79	84	Giens
-LOC	86	97	L'Almanarre
-LOC	99	108	L'Ayguade
-LOC	110	119	Le Pyanet
-LOC	121	131	Costebelle
-LOC	133	152	Les Salins-d'Hyères
-LOC	156	167	Les Borrels
-LOC	179	186	El Niño
-PERS	282	292	Shusterman
-PROD	357	378	Practicing Philosophy
-TIME	380	384	1997
-PROD	387	402	Performing Live
-TIME	404	408	2000
-PROD	413	430	Surface and Depth
-TIME	432	436	2002
-TIME	670	682	XXème siècle
-LOC	686	692	France
-LOC	743	752	Hollywood
-TIME	757	771	de 1930 à 1942
-ORG	825	844	Metro-Goldwyn-Mayer
-ORG	925	946	Centrale féline Belge
-ORG	948	951	CFB
-PERS	1098	1115	Hugues Mingarelli
-TIME	1357	1364	en 2011
-LOC	2067	2072	Maroc
-TIME	2073	2091	ces derniers jours
-LOC	2201	2209	Antilles
-TIME	2273	2302	dans les prochaines 48 heures
-PERS	2549	2566	Margaret Thatcher
-EVENT	2620	2689	réception donnée jeudi au 10 Downing Street pour son 85e anniversaire
-TIME	2637	2642	jeudi
-LOC	2646	2663	10 Downing Street
-ORG	2704	2733	résidence du Premier ministre
-EVENT	2772	2779	concile
-LOC	2787	2794	Saintes
-LOC	2829	2836	Saintes
-PERS	2837	2842	Boson
-LOC	2865	2873	Bordeaux
-PERS	2874	2882	Joscelin
-PERS	2899	2914	duc d'Aquitaine
-PERS	3131	3135	Dieu
-LOC	3381	3394	de Leeuwarden
-ORG	3381	3394	de Leeuwarden
-LOC	3452	3475	département de la Frise
-TIME	3482	3501	le 1er janvier 1811
-TIME	3515	3531	le 11 avril 1814
-TIME	3675	3686	chaque mois
-TIME	3832	3843	20 novembre
-ORG	3860	3898	Fonds des Nations unies pour l'enfance
-ORG	3870	3883	Nations unies
-PERS	4253	4268	Narcisse Pigeon
-LOC	4464	4495	Collégiale Royale Sainte-Marthe
-PERS	4482	4495	Sainte-Marthe
-LOC	4527	4535	Tarascon
-LOC	4569	4585	Bouches-du-Rhône
-LOC	4692	4703	monts Oural
-LOC	4831	4836	Paris
-TIME	4966	4995	Avant la Révolution française
-EVENT	4975	4995	Révolution française
+LOC	69	77	La Capte	2
+LOC	79	84	Giens	1
+LOC	86	97	L'Almanarre	1
+LOC	99	108	L'Ayguade	1
+LOC	110	119	Le Pyanet	2
+LOC	121	131	Costebelle	1
+LOC	133	152	Les Salins-d'Hyères	2
+LOC	156	167	Les Borrels	2
+LOC	179	186	El Niño	2
+PERS	282	292	Shusterman	1
+PROD	357	378	Practicing Philosophy	2
+TIME	380	384	1997	1
+PROD	387	402	Performing Live	2
+TIME	404	408	2000	1
+PROD	413	430	Surface and Depth	3
+TIME	432	436	2002	1
+TIME	670	682	XXème siècle	2
+LOC	686	692	France	1
+LOC	743	752	Hollywood	1
+TIME	757	771	de 1930 à 1942	4
+ORG	825	844	Metro-Goldwyn-Mayer	1
+PERS	914	920	Adrian	1
+ORG	925	946	Centrale féline Belge	3
+ORG	948	951	CFB	1
+PERS	1098	1115	Hugues Mingarelli	2
+ORG	1134	1136	UE	1
+TIME	1357	1364	en 2011	2
+LOC	2067	2072	Maroc	1
+TIME	2073	2091	ces derniers jours	3
+LOC	2186	2193	Afrique	1
+LOC	2201	2209	Antilles	1
+TIME	2273	2302	dans les prochaines 48 heures	5
+PERS	2549	2566	Margaret Thatcher	2
+EVENT	2620	2689	réception donnée jeudi au 10 Downing Street pour son 85e anniversaire	11
+TIME	2637	2642	jeudi	1
+LOC	2646	2663	10 Downing Street	3
+ORG	2704	2733	résidence du Premier ministre	4
+EVENT	2772	2779	concile	1
+LOC	2787	2794	Saintes	1
+LOC	2829	2836	Saintes	1
+PERS	2837	2842	Boson	1
+LOC	2865	2873	Bordeaux	1
+PERS	2874	2882	Joscelin	1
+PERS	2899	2914	duc d'Aquitaine	2
+LOC	2905	2914	Aquitaine	1
+PERS	3131	3135	Dieu	1
+LOC	3366	3394	arrondissement de Leeuwarden	3
+ORG	3366	3394	arrondissement de Leeuwarden	3
+LOC	3452	3475	département de la Frise	4
+TIME	3482	3501	le 1er janvier 1811	4
+TIME	3515	3531	le 11 avril 1814	4
+TIME	3675	3686	chaque mois	2
+TIME	3832	3843	20 novembre	2
+ORG	3860	3898	Fonds des Nations unies pour l'enfance	6
+ORG	3870	3883	Nations unies	2
+PERS	4253	4268	Narcisse Pigeon	2
+LOC	4464	4495	Collégiale Royale Sainte-Marthe	3
+PERS	4482	4495	Sainte-Marthe	1
+LOC	4527	4535	Tarascon	1
+LOC	4569	4585	Bouches-du-Rhône	1
+LOC	4692	4703	monts Oural	2
+LOC	4831	4836	Paris	1
+TIME	4966	4995	Avant la Révolution française	4
+EVENT	4975	4995	Révolution française	2

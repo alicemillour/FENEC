@@ -1,27 +1,27 @@
-Annick	PERS	1
-le 22	TIME	2
-Paris	LOC	1
-Le Mans	LOC	2
-ce jour là	TIME	3
-Tours	LOC	1
-gare d'Angers	LOC	2
-Angers	LOC	1
-Tours	LOC	1
-Vendée	LOC	1
-Nantes	LOC	1
-le 23	TIME	2
-Patrick	PERS	1
-Vendée	LOC	1
-Paris	LOC	1
-le 22 à 14h	TIME	4
-LIUM	LOC	1
-LIUM	ORG	1
-Patrick	PERS	1
-le 22	TIME	2
-Le 22	TIME	2
-Patrick	PERS	1
-à 10h	TIME	2
-Patrick	PERS	1
-Paris	LOC	1
-Chartres	LOC	1
-Le Mans	LOC	2
+PERS	7	13	Annick	1
+TIME	205	210	le 22	2
+LOC	265	270	Paris	1
+LOC	274	281	Le Mans	2
+TIME	293	303	ce jour là	3
+LOC	330	335	Tours	1
+LOC	372	385	gare d'Angers	2
+LOC	379	385	Angers	1
+LOC	407	412	Tours	1
+LOC	456	462	Vendée	1
+LOC	467	473	Nantes	1
+TIME	602	607	le 23	2
+PERS	631	638	Patrick	1
+LOC	690	696	Vendée	1
+LOC	701	706	Paris	1
+TIME	716	727	le 22 à 14h	4
+LOC	770	774	LIUM	1
+ORG	770	774	LIUM	1
+PERS	871	878	Patrick	1
+TIME	928	933	le 22	2
+TIME	966	971	Le 22	2
+PERS	1045	1052	Patrick	1
+TIME	1053	1058	à 10h	2
+PERS	1120	1127	Patrick	1
+LOC	1385	1390	Paris	1
+LOC	1391	1399	Chartres	1
+LOC	1400	1407	Le Mans	2

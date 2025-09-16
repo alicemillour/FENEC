@@ -1,6 +1,6 @@
-LOC	253	260	Orléans
-PERS	2689	2693	Bach
-PERS	2697	2703	Mozart
-PROD	3806	3829	La République du Centre
-LOC	5026	5033	Orléans
-TIME	5476	5495	y a quelques années
+LOC	253	260	Orléans	1
+PERS	2689	2693	Bach	1
+PERS	2697	2703	Mozart	1
+PROD	3806	3829	La République du Centre	4
+LOC	5026	5033	Orléans	1
+TIME	5476	5495	y a quelques années	4

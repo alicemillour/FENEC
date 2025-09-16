@@ -1,7 +1,7 @@
-Tours	LOC	1
-e 23 au matin	TIME	4
-Bénédicte	PERS	1
-ce matin là	TIME	3
-Amaury	PERS	1
-LPL	ORG	1
-à 10h ce jour là	TIME	5
+LOC	55	60	Tours	1
+TIME	87	100	e 23 au matin	4
+PERS	126	135	Bénédicte	1
+TIME	169	180	ce matin là	3
+PERS	196	202	Amaury	1
+ORG	214	217	LPL	1
+TIME	230	246	à 10h ce jour là	5

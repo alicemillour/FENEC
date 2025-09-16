@@ -1,65 +1,76 @@
-LOC	76	81	Liban
-LOC	186	192	France
-EVENT	320	325	Shoah
-LOC	357	363	Europe
-PERS	401	413	Adama Traoré
-PERS	507	527	élu de la République
-ORG	517	527	République
-LOC	635	643	Colombes
-PROD	786	809	Le Chien de Schrödinger
-TIME	947	958	cette année
-EVENT	1165	1184	rentreescolaire2020
-true	1165	1184	rentreescolaire2020
-LOC	1320	1332	Méditerranée
-ORG	1463	1470	YouTube
-true	1463	1470	YouTube
-EVENT	1688	1703	RentreeScolaire
-true	1688	1703	RentreeScolaire
-EVENT	1837	1844	webinar
-true	1837	1844	webinar
-TIME	1845	1866	le 23 juillet à 12h00
-PROD	2323	2336	FranceRelance
-true	2323	2336	FranceRelance
-PERS	2372	2377	Betty
-PERS	2533	2538	Soral
-PERS	2555	2564	Dieudonné
-PERS	2649	2665	Michel Chartrand
-ORG	2848	2855	discord
-true	2848	2855	discord
-PERS	3203	3216	Pierre Truche
-PROD	3286	3293	YouTube
-TIME	3294	3302	fin juin
-PERS	3305	3314	Dieudonné
-PROD	3328	3336	Facebook
-PROD	3486	3494	Facebook
-PROD	3498	3506	Le Monde
-PERS	3549	3559	John # Hume
-LOC	3634	3649	Irlande du Nord
-PROD	3673	3696	prix # Nobel de la # paix
-PERS	3710	3718	JohnHume
-TIME	3769	3776	en 1940
-PROD	4015	4025	XiaomiMi10
-EVENT	4027	4043	SoldesClubic2020
-LOC	4131	4137	France
-LOC	4155	4164	Far Ouest
-PERS	4207	4223	Emmanuel # Macron
-LOC	4305	4319	chalonsursaone
-ORG	4360	4404	fédération d ’ études et de sports sous-marins
-ORG	4411	4437	fédération de sport adapté
-TIME	4454	4459	jeudi
-LOC	4462	4471	Six-Fours
-ORG	4607	4612	LICRA
-ORG	4977	4986	Hezbollah
-PERS	5033	5048	Bachar el-Assad
-LOC	5052	5057	Syrie
-PERS	5063	5082	rebelles houthistes
-LOC	5086	5091	Yémen
-PERS	5099	5114	milices chiites
-LOC	5118	5122	Irak
-TIME	5338	5346	Apresj20
-EVENT	5372	5383	confinement
-LOC	5423	5428	Chine
-ORG	5479	5498	consulat de Houston
-LOC	5491	5498	Houston
-PERS	5520	5525	Trump
-LOC	5783	5789	France
+LOC	76	81	Liban	1
+LOC	186	192	France	1
+EVENT	320	325	Shoah	1
+LOC	357	363	Europe	1
+PERS	401	413	Adama Traoré	2
+PERS	507	527	élu de la République	4
+ORG	517	527	République	1
+LOC	635	643	Colombes	1
+PROD	786	809	Le Chien de Schrödinger	4
+TIME	947	958	cette année	2
+EVENT	1165	1184	rentreescolaire2020	1
+true	1165	1184	rentreescolaire2020	1
+ORG	1186	1191	NEEDE	1
+true	1186	1191	NEEDE	1
+LOC	1191	1203	Méditerranée	1
+true	1191	1203	Méditerranée	1
+LOC	1320	1332	Méditerranée	1
+ORG	1463	1470	YouTube	1
+true	1463	1470	YouTube	1
+EVENT	1688	1703	RentreeScolaire	1
+true	1688	1703	RentreeScolaire	1
+EVENT	1837	1844	webinar	1
+true	1837	1844	webinar	1
+TIME	1845	1866	le 23 juillet à 12h00	5
+LOC	1939	1945	Alsace	1
+PROD	2323	2336	FranceRelance	1
+true	2323	2336	FranceRelance	1
+ORG	2323	2329	France	1
+true	2323	2329	France	1
+PERS	2372	2377	Betty	1
+PERS	2533	2538	Soral	1
+PERS	2555	2564	Dieudonné	1
+PERS	2649	2665	Michel Chartrand	2
+ORG	2848	2855	discord	1
+true	2848	2855	discord	1
+PERS	3203	3216	Pierre Truche	2
+PROD	3286	3293	YouTube	1
+TIME	3294	3302	fin juin	2
+PERS	3305	3314	Dieudonné	1
+PROD	3328	3336	Facebook	1
+PROD	3486	3494	Facebook	1
+PROD	3498	3506	Le Monde	2
+PERS	3549	3559	John # Hume	3
+LOC	3634	3649	Irlande du Nord	3
+PROD	3673	3696	prix # Nobel de la # paix	7
+PERS	3710	3718	JohnHume	1
+TIME	3769	3776	en 1940	2
+PROD	4015	4025	XiaomiMi10	1
+EVENT	4027	4043	SoldesClubic2020	1
+PROD	4033	4039	Clubic	1
+TIME	4039	4043	2020	1
+PROD	4071	4077	Unibet	1
+PERS	4101	4107	macron	1
+LOC	4131	4137	France	1
+LOC	4155	4164	Far Ouest	2
+PERS	4207	4223	Emmanuel # Macron	3
+LOC	4305	4319	chalonsursaone	1
+ORG	4360	4404	fédération d ’ études et de sports sous-marins	8
+ORG	4411	4437	fédération de sport adapté	4
+TIME	4454	4459	jeudi	1
+LOC	4462	4471	Six-Fours	1
+ORG	4607	4612	LICRA	1
+ORG	4977	4986	Hezbollah	1
+PERS	5033	5048	Bachar el-Assad	2
+LOC	5052	5057	Syrie	1
+PERS	5063	5082	rebelles houthistes	2
+LOC	5086	5091	Yémen	1
+PERS	5099	5114	milices chiites	2
+LOC	5118	5122	Irak	1
+TIME	5338	5346	Apresj20	1
+EVENT	5372	5383	confinement	1
+LOC	5423	5428	Chine	1
+ORG	5479	5498	consulat de Houston	3
+LOC	5491	5498	Houston	1
+PERS	5520	5525	Trump	1
+LOC	5783	5789	France	1

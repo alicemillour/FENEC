@@ -1,8 +1,12 @@
-TIME	958	967	novembres
-TIME	1484	1488	midi
-TIME	2792	2818	dans le courant de l'année
-LOC	4443	4470	l'angle Gorki et Lafontaine
-PERS	4451	4456	Gorki
-PERS	4460	4470	Lafontaine
-TIME	5322	5331	printemps
-TIME	6004	6009	matin
+TIME	958	967	novembres	1
+TIME	1118	1125	automne	1
+TIME	1484	1488	midi	1
+TIME	1562	1572	après-midi	1
+TIME	2792	2818	dans le courant de l'année	5
+TIME	4080	4087	automne	1
+TIME	4102	4107	hiver	1
+LOC	4443	4470	l'angle Gorki et Lafontaine	4
+PERS	4451	4456	Gorki	1
+PERS	4460	4470	Lafontaine	1
+TIME	5322	5331	printemps	1
+TIME	6004	6009	matin	1

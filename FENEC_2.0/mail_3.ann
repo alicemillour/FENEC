@@ -1,6 +1,6 @@
-Wassim	PERS	1
-Mr Dupont-Redoux	PERS	2
-Mr Rigaudeau	PERS	2
-ParcourSup	PROD	1
-depuis le 15 mars	TIME	4
-mars	TIME	1
+PERS	8	14	Wassim	1
+PERS	164	180	Mr Dupont-Redoux	2
+PERS	182	194	Mr Rigaudeau	2
+PROD	416	426	ParcourSup	1
+TIME	441	458	depuis le 15 mars	4
+TIME	598	602	mars	1

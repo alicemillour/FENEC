@@ -1,17 +1,21 @@
-LOC	6	21	Splendide-Hôtel
-LOC	729	739	Péloponèse
-LOC	751	770	grande île du Japon
-LOC	765	770	Japon
-PROD	1513	1518	Bible
-TIME	1693	1707	Premier Empire
-PERS	1743	1750	Boucher
-PERS	2114	2119	Diane
-PERS	2267	2273	Psyché
-PERS	2503	2511	Eucharis
-PERS	2997	3001	Lulu
-PROD	3066	3071	Amies
-LOC	3580	3586	soleil
-LOC	4033	4036	Sud
-TIME	4618	4622	midi
-PERS	4996	5010	Nabuchodonosor
-PERS	5131	5138	Brennus
+LOC	6	21	Splendide-Hôtel	1
+LOC	717	722	Épire	1
+LOC	729	739	Péloponèse	1
+LOC	751	770	grande île du Japon	4
+LOC	765	770	Japon	1
+LOC	781	787	Arabie	1
+PROD	1513	1518	Bible	1
+PERS	1674	1680	Horace	1
+TIME	1693	1707	Premier Empire	2
+PERS	1743	1750	Boucher	1
+PERS	2114	2119	Diane	1
+PERS	2267	2273	Psyché	1
+PERS	2503	2511	Eucharis	1
+PERS	2903	2910	Antoine	1
+PERS	2997	3001	Lulu	1
+PROD	3066	3071	Amies	1
+LOC	3580	3586	soleil	1
+LOC	4033	4036	Sud	1
+TIME	4618	4622	midi	1
+PERS	4996	5010	Nabuchodonosor	1
+PERS	5131	5138	Brennus	1

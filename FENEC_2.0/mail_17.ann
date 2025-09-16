@@ -1,24 +1,24 @@
-Hélène	PERS	1
-le 19	TIME	2
-gare de Chambéry	LOC	3
-Chambéry	LOC	1
-le 20	TIME	2
-TGV	PROD	1
-Alpes	LOC	1
-Le 20	TIME	2
-le 19	TIME	2
-Gare de Lyon	LOC	3
-Lyon	LOC	1
-à 17 : 30	TIME	4
-Paris Nord	LOC	2
-Paris	LOC	1
-à 18h	TIME	2
-Nanterre	LOC	1
-Saint Lazare	LOC	2
-Lazare	PERS	1
-Transilien	PROD	1
-tram T1	PROD	2
-tram	PROD	1
-La Chapelle	LOC	2
-vers 18h15	TIME	2
-après 20h	TIME	2
+PERS	7	13	Hélène	1
+TIME	90	95	le 19	2
+LOC	174	190	gare de Chambéry	3
+LOC	182	190	Chambéry	1
+TIME	205	210	le 20	2
+PROD	221	224	TGV	1
+LOC	234	239	Alpes	1
+TIME	258	263	Le 20	2
+TIME	300	305	le 19	2
+LOC	328	340	Gare de Lyon	3
+LOC	336	340	Lyon	1
+TIME	344	351	à 17 : 30	4
+LOC	384	394	Paris Nord	2
+LOC	384	389	Paris	1
+TIME	408	413	à 18h	2
+LOC	477	485	Nanterre	1
+LOC	513	525	Saint Lazare	2
+PERS	519	525	Lazare	1
+PROD	542	552	Transilien	1
+PROD	568	575	tram T1	2
+PROD	568	572	tram	1
+LOC	677	688	La Chapelle	2
+TIME	689	699	vers 18h15	2
+TIME	779	788	après 20h	2

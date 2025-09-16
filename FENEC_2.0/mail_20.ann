@@ -1,6 +1,6 @@
-Lydia	PERS	1
-demain	TIME	1
-10 : 30	TIME	3
-de 10 : 00 à 10 : 30	TIME	8
-au delà de 10 : 30	TIME	6
-JP	PERS	1
+PERS	7	12	Lydia	1
+TIME	94	100	demain	1
+TIME	128	133	10 : 30	3
+TIME	180	196	de 10 : 00 à 10 : 30	8
+TIME	299	315	au delà de 10 : 30	6
+PERS	332	334	JP	1

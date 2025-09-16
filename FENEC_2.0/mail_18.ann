@@ -1,5 +1,5 @@
-université de Toulon	ORG	3
-Toulon	LOC	1
-Bernard	PERS	1
-Stand Up for Science	ORG	4
-CAPES	PROD	1
+ORG	172	192	université de Toulon	3
+LOC	186	192	Toulon	1
+PERS	217	224	Bernard	1
+ORG	359	379	Stand Up for Science	4
+PROD	485	490	CAPES	1
