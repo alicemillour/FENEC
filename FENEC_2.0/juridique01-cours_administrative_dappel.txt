@@ -1,46 +1,18 @@
-Vu la procédure suivante :
-Procédure contentieuse antérieure :
-M. D B a demandé au tribunal administratif de Nîmes de prononcer la décharge des rappels de taxe sur la valeur ajoutée qui lui ont été réclamés au titre de la période du 1er janvier 2014 au 31 décembre 2016 pour un montant de 41 829 euros ainsi que des pénalités dont ces rappels ont été assortis pour un montant de 7 845 euros.
+Vu la procédure suivante :\n Procédure contentieuse antérieure :\n M. D B a demandé au tribunal administratif de Nîmes de prononcer la décharge des rappels de taxe sur la valeur ajoutée qui lui ont été réclamés au titre de la période du 1er janvier 2014 au 31 décembre 2016 pour un montant de 41 829 euros ainsi que des pénalités dont ces rappels ont été assortis pour un montant de 7 845 euros.
 Par un jugement n° 1901113 du 29 juin 2021, le tribunal administratif de Nîmes a rejeté sa demande.
-Procédure devant la Cour :
-Par une requête, enregistrée le 27 août 2021, M. B, représenté par Me Hérisson, demande à la Cour :
-1°) d'annuler ce jugement du 29 juin 2021 ;
-2°) de prononcer la décharge, en droits et pénalités, des impositions en litige ;
-3°) de mettre à la charge de l'Etat la somme de 4 000 euros au titre de l'article L. 761-1 du code de justice administrative.
-Il soutient que :
-- la procédure relative au défaut de paiement à l'échéance est irrégulière, au regard des articles L. 257-0 A et L. 275 du livre des procédures fiscales, dès lors que la mise en demeure de payer lui a été adressée alors qu'il n'avait pas encore reçu l'avis de mise en recouvrement ;
-- son activité principale de dispense de cours de tennis étant exonérée de taxe sur la valeur ajoutée, les prestations accessoires doivent l'être également ;
-- les salariés, chargés exclusivement d'encadrer l'hébergement, ne participent ni directement, ni indirectement à l'activité pédagogique ;
-- il entend se prévaloir de la réponse ministérielle du 17 août 1998 à la question n° 14401 de M. E, député, et de celle du 2 décembre 2008 à la question n° 27721 de M. A, député ;
-- les prestations accessoires de pension et d'hébergement étant refacturées à l'euro près, la taxe sur la valeur ajoutée collectée est équivalente à la taxe sur la valeur ajoutée déductible.
+Procédure devant la Cour :\n Par une requête, enregistrée le 27 août 2021, M. B, représenté par Me Hérisson, demande à la Cour :\n 1°) d'annuler ce jugement du 29 juin 2021 ;\n 2°) de prononcer la décharge, en droits et pénalités, des impositions en litige ;\n 3°) de mettre à la charge de l'Etat la somme de 4 000 euros au titre de l'article L. 761-1 du code de justice administrative.
+Il soutient que :\n - la procédure relative au défaut de paiement à l'échéance est irrégulière, au regard des articles L. 257-0 A et L. 275 du livre des procédures fiscales, dès lors que la mise en demeure de payer lui a été adressée alors qu'il n'avait pas encore reçu l'avis de mise en recouvrement ;\n - son activité principale de dispense de cours de tennis étant exonérée de taxe sur la valeur ajoutée, les prestations accessoires doivent l'être également ;\n - les salariés, chargés exclusivement d'encadrer l'hébergement, ne participent ni directement, ni indirectement à l'activité pédagogique ;\n - il entend se prévaloir de la réponse ministérielle du 17 août 1998 à la question n° 14401 de M. E, député, et de celle du 2 décembre 2008 à la question n° 27721 de M. A, député ;\n - les prestations accessoires de pension et d'hébergement étant refacturées à l'euro près, la taxe sur la valeur ajoutée collectée est équivalente à la taxe sur la valeur ajoutée déductible.
 Par un mémoire en défense, enregistré le 17 décembre 2021, le ministre de l'économie, des finances et de la relance demande à la Cour de rejeter la requête de M. B.
 Il fait valoir que les moyens invoqués par l'appelant ne sont pas fondés.
 Vu les autres pièces du dossier.
-Vu :
-- la directive 2006/112/CE du Conseil du 28 novembre 2006 ;
-- le code général des impôts et le livre des procédures fiscales ;
-- le code de justice administrative.
+Vu :\n - la directive 2006/112/CE du Conseil du 28 novembre 2006 ;\n - le code général des impôts et le livre des procédures fiscales ;\n - le code de justice administrative.
 Les parties ont été régulièrement averties du jour de l'audience.
-Ont été entendus au cours de l'audience publique :
-- le rapport de Mme C,
-- et les conclusions de Mme Courbon, rapporteure publique.
-Considérant ce qui suit :
-1.
-L'activité libérale de moniteur de tennis exercée par M. B ayant fait l'objet d'une vérification de comptabilité du 13 septembre au 6 octobre 2017, au titre de la période allant du 1er janvier 2014 au 30 juin 2017, une proposition de rectification du 24 octobre 2017 a été adressée à ce dernier afin de lui notifier des rappels de taxe sur la valeur ajoutée au titre de la période du 1er janvier 2014 au 31 décembre 2016.
+Ont été entendus au cours de l'audience publique :\n - le rapport de Mme C,\n - et les conclusions de Mme Courbon, rapporteure publique.
+Considérant ce qui suit :\n 1.\n L'activité libérale de moniteur de tennis exercée par M. B ayant fait l'objet d'une vérification de comptabilité du 13 septembre au 6 octobre 2017, au titre de la période allant du 1er janvier 2014 au 30 juin 2017, une proposition de rectification du 24 octobre 2017 a été adressée à ce dernier afin de lui notifier des rappels de taxe sur la valeur ajoutée au titre de la période du 1er janvier 2014 au 31 décembre 2016.
 M. B relève appel du jugement du 29 juin 2021 du tribunal administratif de Nîmes ayant rejeté sa demande de décharge des rappels précités ainsi que des pénalités correspondantes.
-Sur la régularité de la procédure d'imposition :
-2.
-En premier lieu, aux termes de l'article 257-0 A du livre des procédures fiscales, dans sa version alors applicable : " 1.
-A défaut de paiement des sommes mentionnées sur l'avis d'imposition à la date limite de paiement ou de celles mentionnées sur l'avis de mise en recouvrement et en l'absence d'une réclamation assortie d'une demande de sursis de paiement formulée dans les conditions prévues au premier alinéa de l'article L. 277, le comptable public compétent adresse au contribuable une mise en demeure de payer avant la notification du premier acte de poursuite devant donner lieu à des frais au sens de l'article 1912 du code général des impôts () ".
-3.
-Si un avis de mise en recouvrement doit avoir été notifié au contribuable concerné avant l'engagement de toute mesure de poursuite, le moyen soulevé par M. B et tiré de ce que " la procédure relative au défaut de paiement à l'échéance n'a pas été respectée " dès lors qu'une mise en demeure de payer les impositions en litige lui a été adressée le 31 juillet 2018, alors qu'il n'avait pas encore reçu l'avis de mise en recouvrement relatif à ces dernières, réceptionné seulement le 2 août 2018, doit être regardé comme relatif à l'irrégularité de la mise en demeure du 31 juillet 2018.
+Sur la régularité de la procédure d'imposition : \n 2. En premier lieu, aux termes de l'article 257-0 A du livre des procédures fiscales, dans sa version alors applicable : " 1. A défaut de paiement des sommes mentionnées sur l'avis d'imposition à la date limite de paiement ou de celles mentionnées sur l'avis de mise en recouvrement et en l'absence d'une réclamation assortie d'une demande de sursis de paiement formulée dans les conditions prévues au premier alinéa de l'article L. 277, le comptable public compétent adresse au contribuable une mise en demeure de payer avant la notification du premier acte de poursuite devant donner lieu à des frais au sens de l'article 1912 du code général des impôts () ".
+3. Si un avis de mise en recouvrement doit avoir été notifié au contribuable concerné avant l'engagement de toute mesure de poursuite, le moyen soulevé par M. B et tiré de ce que " la procédure relative au défaut de paiement à l'échéance n'a pas été respectée " dès lors qu'une mise en demeure de payer les impositions en litige lui a été adressée le 31 juillet 2018, alors qu'il n'avait pas encore reçu l'avis de mise en recouvrement relatif à ces dernières, réceptionné seulement le 2 août 2018, doit être regardé comme relatif à l'irrégularité de la mise en demeure du 31 juillet 2018.
 L'irrégularité en la forme de cet acte de poursuite, ne pouvant être soulevée que devant le juge de l'exécution, il est sans incidence sur la régularité de la procédure d'établissement de l'impôt.
-4.
-En second lieu, le moyen tiré de la violation de l'article L. 275 A du même livre qui dispose que " L'avis de mise en recouvrement notifié en application de l'article L. 256 A n'interrompt pas le délai de prescription de l'action en recouvrement ouvert par le titre exécutoire initial.
-Il se substitue à l'avis de mise en recouvrement précédemment notifié " n'est assorti d'aucune précision permettant à la Cour d'en apprécier le bien-fondé.
-Sur le bien-fondé des impositions :
-En ce qui concerne l'application de la loi fiscale :
-5.
-D'une part, aux termes de l'article 256 du code général des impôts, les prestations de services effectuées à titre onéreux par un assujetti agissant en tant que tel sont soumises à la taxe sur la valeur ajoutée.
-Selon les dispositions du b. du 4° du 4.
-de l'article 261 de ce code, les cours ou leçons relevant de l'enseignement sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves sont exonérés de la taxe sur la valeur ajoutée.
+4. En second lieu, le moyen tiré de la violation de l'article L. 275 A du même livre qui dispose que " L'avis de mise en recouvrement notifié en application de l'article L. 256 A n'interrompt pas le délai de prescription de l'action en recouvrement ouvert par le titre exécutoire initial. Il se substitue à l'avis de mise en recouvrement précédemment notifié " n'est assorti d'aucune précision permettant à la Cour d'en apprécier le bien-fondé.
+Sur le bien-fondé des impositions : \n En ce qui concerne l'application de la loi fiscale : \n 5. D'une part, aux termes de l'article 256 du code général des impôts, les prestations de services effectuées à titre onéreux par un assujetti agissant en tant que tel sont soumises à la taxe sur la valeur ajoutée.
+Selon les dispositions du b. du 4° du 4.- de l'article 261 de ce code, les cours ou leçons relevant de l'enseignement sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves sont exonérés de la taxe sur la valeur ajoutée.
