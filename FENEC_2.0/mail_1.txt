@@ -1,0 +1,7 @@
+Ito, à la lecture de ton mail, si tu me le permets, je vais écrire ce que j'ai compris aussi de ta question vendredi ? :).
+En fait, il semblerait que vous ayez proposé à Ito de prompter aux LLMS la détection d'entités nommées sur des corpus "inédits", dans le sens "jamais vu par l'outil".
+Mais la question que nous nous sommes posées vendredi, c'est "est-ce que vous voulez dire des textes inédits dans le sens nouvellement ajoutés au corpus RENARD" ou "des textes inédits que les systèmes n'ont jamais vu, donc sur du texte inventé par l'humain, par nous" en quelque sorte ? 
+Parce qu'on part du postulat que tous les textes que nous ajouterons à RENARD proviendront de corpus en licence ouverte, et donc de corpus potentiellement absorbés, et donc déjà vu par les LLMs testés. 
+Ito, si ce n'est pas ça, n'hésite surtout pas à me reprendre ! ^^"
+Jean-Paul, j'ai adoré l'expression suranée remise au goût du jour haha. :D. 
+Très beau week-end ensoleillé à toutes et tous, (aaah quel bonheur !)

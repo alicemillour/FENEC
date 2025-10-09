@@ -1,0 +1,10 @@
+Bonjour Béné
+J'ai regardé tes fichiers, pour ce qui concerne la L2.
+Je vois deux souci dans le fichier STS_.....xls
+=> lignes 13 et 14 : les formules correspondant aux volume horaire étudiant font des arrondis qui, à la fin, font que par exemple, en architecture, tu as 24 h ETU au lieu de 23
+=> je suis perdu sur l'UE Bases de Données et Systèmes de L2 semestre 2, entre ce que j'avais compris (placement du réseau les semestres qui vont bien à l'IUT), le compte-rendu de réunion, et les 2 fichiers.
+Pour moi, il y a avait désormais du réseau en L2S1.
+Mais le fichier STS.....xls ne mentionne pas cela en ligne 30 : on a toujours du système.
+En espérant avoir bien compris la mission.
+Bise
+JP

@@ -1,0 +1,7 @@
+Bonsoir
+Ah je commence à bien connaître tes travaux, Charlie, j'ai presque tout saisi dans tes slides.
+Concernant ce qui est plus facile à apprendre pour un modèle, en termes de représentation, je viens de passer une journée à faire comprendre à un GML un format de représentation de la coréférence chelou (CorefUD ou comment arriver à coder la coréférence sur le seul champ MISC de ConLL) et ben c'est pas gagné...
+Mais expérience très troublante de ne pas savoir ce qui est le plus facile à comprendre par un modèle...
+Mais là, un triplet SUBCLASS_OF, on imagine cela très bien, effectivement.
+A suivre ... dès demain
+JP

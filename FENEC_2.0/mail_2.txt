@@ -1,0 +1,6 @@
+Bonjour Selim
+La partie droite de la figure aide bien mieux à la compréhension, je trouve. 
+Il me reste 2 soucis :
+* contrairement à ce que tu nous écris, ce n'est pas une figure pour le pruning, mais pour l'architecture globale du système
+* le lien avec la partie gauche de la figure ("variants of BERT") ne me semble pas clair, puisque le choix de représentation des différentes couches n'est pas le même qu'à droite.
+JL

@@ -1,0 +1,19 @@
+Bonsoir Alicia
+Alors, déjà, ton jeu de données pourrait m'intéresser pour mes propres expériences sur la qualité des annotations, je ne sais s'il sera disponible.
+Pour répondre à ta question, ton problème est celui de l'estimation de la fiabilité d'une annotation.
+Elle s'estime à l'aide de ce que l'on appelle une mesure d'accord inter-annotateur.
+Plusieurs métriques existent, qui sont plus ou moins adaptées suivant les situations.
+Je ne sais sur quoi repose ton évaluation :
+* si c'est une échelle multi-valuées, i.e. 1,2,3,4,5 et que la distance entre les évaluations à une influence pour mesurer l'importance des désaccords entre annotateurs, j'ai montré avec des collègues que la mesure la plus adaptée est la alpha de Krippendorff multi-annotateurs
+* si ton échelle est catégorielle, i.e. avec des classes d'annotation sans notion de distance entre elles, tu peux utiliser le Kappa de Cohen ou le Alpha de Krippendorff, là encore en version multi-utilisateurs, ils donnent les mêmes résultats.
+Une fois que tu auras des valeurs d'accord, nous pourrons en discuter.
+Dis-toi que si cette valeur est supérieure à 0,8 alors là tu es au paradis, ton annotation est fiable.
+En dessous, nous en discuterons.
+Il existe plein de calculateurs de ces métriques sur le net, bien vérifier que ce sont bien des versions pour plus de 2 annotateurs.
+Si tu as besoin de références bibliographiques : 
+* Mark Davies and Joseph Fleiss. 1982. Measuring agreement for multinomial data. Biometrics, 38(4):1047-1051.     => Kappa pour plus de 2 annotateurs
+* Le alpha de Krippendorff gère de manière native tout nombre d'utilisateurs : Klaus Krippendorff. 2004. Content Analysis: an Introduction to its Methodology. Chapter 11. Sage: Thousand Oaks, CA.
+Je ne pense pas que tu aies besoin de références pour justifier le choix d'une métrique plutôt qu'une autre, mais sinon je peux te fournir cela.
+Intéressé par les résultats que tu auras obtenu.
+Bien à toi
+Anne-Sophie
